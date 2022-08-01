@@ -22,34 +22,22 @@
 |Multi-Threading (Basic)| 1. Process<br/> 2. Thread <br/> 3.Fork / Join <br/> 4. Mutex <br/> 5. Race Condition <br/>|
 |Generic| N/A |
 |Differences between C++ and Java|N/A|
-|||
+
 
 ### II. Data Strcutures
 
 |Topic|Sub Topcis |
 |----|----|
 |Array|N/A|
-|List|1. ArrayList|
-||2. LinkedList|
-|Set|1. HashSet|
-||2.TreeSet|
-|Map|1.HashMap|
-||2.TreeMap|
+|List|1. ArrayList <br/> 2. LinkedList|
+|Set|1. HashSet <br/> 2.TreeSet|
+|Map|1.HashMap <br/> 2.TreeMap|
 |Stack|N/A|
-|Queue|1. Deque|
-||2. Priority Queue|
-|Tree|1. Binary Tree|
-||2. BST|
-|Graph|1. Directed|
-||2. Undirected|
-||3. Acyclic Graph|
-||4. DAG|
-|Collection Interface ||
-|Manipulating Data Structures|1. Arrays|
-||2. Collections|
-||3. Iterations|
-||4. Lambda Expressions|
-||5 Stream|
+|Queue|1. Deque <br/> 2. Priority Queue|
+|Tree|1. Binary Tree <br/> 2. BST|
+|Graph|1. Directed <br/> 2. Undirected <br/> 3. Acyclic Graph <br/> 4. DAG|
+|Collection Interface |N/A|
+|Manipulating Data Structures|1. Arrays <br/> 2. Collections <br/> 3. Iterations <br/> 4. Lambda Expressions <br/> 5 Stream|
 |||
 
 
