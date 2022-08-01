@@ -38,38 +38,6 @@
 |Graph|1. Directed <br/> 2. Undirected <br/> 3. Acyclic Graph <br/> 4. DAG|
 |Collection Interface |N/A|
 |Manipulating Data Structures|1. Arrays <br/> 2. Collections <br/> 3. Iterations <br/> 4. Lambda Expressions <br/> 5 Stream|
-|||
-
-
-1. Array
-1. List
-    1. ArrayList
-    1. LinkedList
-1. Set
-    1. HashSet
-    1. TreeSet
-1. Map
-    1. HashMap
-    1. TreeMap
-1. Stack
-1. Queue
-    1. Deque
-    1. PriorityQueue
-1. Tree
-    1. Binary Tree
-    1. BST
-1. Graph
-    1. Directed
-    1. Undirected
-    1. Acyclic Graph
-    1. DAG
-1. Collection Interface 
-1. Manipulating Data Structures
-    1. Arrays
-    1. Collections
-    1. Iterations
-    1. Lambda Expression
-    1. Stream
 
 ### III. Object Oriented Programming 
 
