@@ -2,220 +2,556 @@
 
 ## Topics to Cover:
 
-#### I. Language Basics
-1. **Java Releases and Evolution**      
-2. **Compilation**                      
-3. **Running Java Code** 
-   1. Java Virtual Machine 
-   2. Java Runtime Environment 
-   3. Java Development Toolkit 
-   4. Class Path
-4. **Variables**
-   1. Declaration and Initialization 
-   2. Memory Location and Lifecycle 
-   3. Garbage Collection 
-   4. Primitive Types 
-   5. Non-Primitive Types
-   6. Casting
-   7. Final Variables
-5. **Methods** 
-   1. Signature
-   2. Static Method
-   3. Instance Method
-   4. Pass by Value or Pass by Reference
-6. **Operator Precedence**        
-   1. Signature
-   2. Static Method
-   3. Instance Method
-   4. Pass by Value or Pass by Reference
-7. **Math Operations**                  
-8. **String Manipulation**              
-9. **Conditionals**  
-   1. If Statement
-   2. Switch Statement
-10. **Loops**    
-    1. For Loop
-    2. While Loop
-    3. Do-While Loop
-    4. Recursion
-11. **I/O Streams**  
-    1. Standard Input
-    2. Standard Output
-    3. Standard Error
-12. **Exceptions**      
-    1. Checked Exception
-    2. Unchecked Exception
-13. **Multi-Threading (Basic)**    
-    1. Process
-    2. Thread
-    3. 3.Fork / Join
-    4. Mutex
-    5. Race Condition
-14. **Generic**                          
-15. **Differences between C++ and Java**
-
-#### II. Data Structures
-1. **Array**                       
-2. **Collection Interface**        
-3. **List**
-   1. ArrayList 
-   2. LinkedList
-4. **Set**           
-   1. HashSet
-   2. TreeSet
-5. **Map**    
-   1. HashMap 
-   2. TreeMap
-6. **Stack**                      
-7. **Queue**
-   1. Deque
-   2. Priority Queue
-8. **Tree** 
-   1. Binary Tree 
-   2. BST (Binary Search Tree) 
-9. **Graph**
-   1. Directed Graph
-   2. Undirected Graph
-   3. Acyclic Graph
-   4. DAG
-10. **Manipulating Data Structures**
-    1. Arrays
-    2. Collections
-    3. Iterations
-    4. Lambda Expressions
-    5. Streams
-
-#### III. Object-Oriented Programming
-1. **Class & Object**
-   1. What are Classes and Objects?
-   2. Instantiation and the life cycle of an object<br/>  
-   3. Declaring and Implementing a Class
-   4. Access Modifiers
-   5. Data Member
-   6. Method
-   7. Types of Constructors
-   8. Nested Class
-   9. Accessor
-   10. Static Variable
-   11. Static Method
-   12. Final Class
-   13. Final Method
-   14. Enum
-   15. Date / Time Objects
-2. **Inheritance**    
-   1. What is Inheritance?
-   2. Types of Inheritance
-   3. Advantages of Inheritance
-   4. Object Class
-   5. Casting and instanceof
-3. **Polymorphism**          
-   1. What is Polymorphism?
-   2. Method Overriding
-   3. Method Overloading
-   4. Static vs. Dynamic Polymorphism
-4. **Abstract Classes and Interfaces**
-   1. Abstraction 
-   2. Abstract classes
-   3. Abstract methods
-   4. Interfaces
-   5. Multiple Inheritance
-5. **Further OOP Principles**
-   1. Composition
-   2. Composition vs. Inheritance: Advantages and Disadvantages
-   3. Association
-   4. Aggregation
-   5. Encapsulation
-   6. Single Responsibility Principle
-   7. Open/Closed Principle
-
-#### IV. Algorithms
-1. **Space & Time Complexity**                                                                                                                                                                                                                                                                                                                                                                                                                    
-3. **Techniques**
-   1. Brute Force Algorithms
-   2. Greedy Algorithms
-   3. Divide and Conquer Algorithms
-   4. Two Pointers Technique
-   5. Fast and Slow Pointers Technique
-   6. Merge Intervals Technique
-   7. Sliding Window Technique
-   8. Cyclic Sort Technique
-   9. subsets Technique
-   10. Topological Sort
-   11. Top K Elements Technique
-   12. Min Heaps and Max Heaps Technique 
-4. **Sorting**
-   1. Selection Sort
-   2. Bubble Sort
-   3. Insertion Sort
-   4. Merge Sort
-   5. Quick Sort
-   6. Heap Sort
-   7. Bucket Sort                                                                                                                                                                                                                                                                  
-5. **Searching**
-   1. Tree Traversal Algorithms (Pre-order, In-Order, Post-Order)
-   2. Graph Traversal Algorithms (BFS, DFS)
-   3. Linear Search
-   4. Binary Search                                                                                                                                                                                                                                                     
-6. **Recursion** 
-   1. Iterative vs. Recursive Approach
-   2. Memory Utilization of a Recursive Approach
-   3. Maintaining Intermediate Results while Using Recursion
-   4. Constructing the Recursive Calls and Determining the Base Case
-
-
-| Topic                                 | Sub Topics                                                                                                                                                                                             |
-|---------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Java Releases and Evolution**       | N/A                                                                                                                                                                                                    |
-| **Compilation**                       | N/A                                                                                                                                                                                                    |
-| **Running Java Code**                 | 1. Java Virtual Machine <br/> 2. Java Runtime Environment <br/> 3. Java Development Toolkit <br/> 4. Class Path                                                                                        |
-| **Variables**                         | 1. Declaration and Initialization <br/> 2. Memory Location and Lifecycle <br/> 3. Garbage Collection <br/> 4. Primitive Types <br/> 5. Non-Primitive Types <br/> 6. Casting <br/> 7. Final Variables   |
-| **Methods**                           | 1. Signature <br/> 2. Static Method <br/> 3. Instance Method <br/> 4. Pass by Value or Pass by Reference                                                                                               |
-| **Operator Precedence**               | N/A                                                                                                                                                                                                    |
-| **Math Operations**                   | N/A                                                                                                                                                                                                    |
-| **String Manipulation**               | N/A                                                                                                                                                                                                    |
-| **Conditionals**                      | 1. If Statement <br/> 2. Switch Statement                                                                                                                                                              |
-| **Loops**                             | 1. For Loop <br/> 2. While Loop<br/> 3. Do-While Loop<br/> 4. Recursion                                                                                                                                |
-| **I/O Streams**                       | 1. Standard Input <br/> 2. Standard Output <br/> 3. Standard Error <br/>                                                                                                                               | 
-| **Exceptions**                        | 1. Checked Exception <br/> 2. Unchecked Exception                                                                                                                                                      |
-| **Multi-Threading (Basic)**           | 1. Process<br/> 2. Thread <br/> 3.Fork / Join <br/> 4. Mutex <br/> 5. Race Condition <br/>                                                                                                             |
-| **Generic**                           | N/A                                                                                                                                                                                                    |
-| **Differences between C++ and Java**  | N/A                                                                                                                                                                                                    |
-
-### II. Data Structures
-
-| Topic                            | Sub Topics                                                                                     |
-|----------------------------------|------------------------------------------------------------------------------------------------|
-| **Array**                        | N/A                                                                                            |
-| **Collection Interface**         | N/A                                                                                            |
-| **List**                         | 1. ArrayList <br/> 2. LinkedList                                                               |
-| **Set**                          | 1. HashSet <br/> 2.TreeSet                                                                     |
-| **Map**                          | 1.HashMap <br/> 2.TreeMap                                                                      |
-| **Stack**                        | N/A                                                                                            |
-| **Queue**                        | 1. Deque <br/> 2. Priority Queue                                                               |
-| **Tree**                         | 1. Binary Tree <br/> 2. BST                                                                    |
-| **Graph**                        | 1. Directed <br/> 2. Undirected <br/> 3. Acyclic Graph <br/> 4. DAG                            |
-| **Manipulating Data Structures** | 1. Arrays <br/> 2. Collections <br/> 3. Iterations <br/> 4. Lambda Expressions <br/> 5 Streams |
-
-### III. Object-Oriented Programming
-
-| Topic                               | Sub Topics                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Class & Object**                  | 1. What are Classes and Objects? <br/> 2. Instantiation and the life cycle of an object<br/> 3. Declaring and Implementing a Class<br/> 4. Access Modifiers<br/> 5. Data Member<br/> 6. Method<br/> 7. Types of Constructors<br/> 8. Nested Class<br/> 9. Accessor<br/> 10. Static Variable<br/> 11. Static Method<br/> 12. Final Class<br/> 13. Final Method<br/> 14. Enum<br/> 15. Date / Time Objects<br/> |
-| **Inheritance**                     | 1. What is Inheritance?<br/> 2. Types of Inheritance<br/> 3. Advantages of Inheritance<br/> 4. Object Class<br/> 5. Casting and instanceof<br/>                                                                                                                                                                                                                                                               |
-| **Polymorphism**                    | 1. What is Polymorphism?<br/> 2. Method Overriding<br/> 3. Method Overloading<br/> 4. Static vs. Dynamic Polymorphism<br/>                                                                                                                                                                                                                                                                                    |
-| **Abstract Classes and Interfaces** | 1. Abstraction <br/> 2.Abstract classes <br/> 3. Abstract methods <br/> 4. Interfaces <br/> 5. Multiple Inheritance                                                                                                                                                                                                                                                                                           |
-| **Further OOP Principles**          | 1. Composition <br/> 2. Composition vs. Inheritance: Advantages and Disadvantages <br/> 3. Association <br/> 4. Aggregation <br/> 5. Encapsulation <br/> 6. Single Responsibility Principle <br/> 7. Open/Closed Principle                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                    
-
-### IV. Algorithms
-
-| Topic                | Sub Topics                                                                                                                                                                                                                                                                                                                                                                                                            |
-|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Time Complexity**  | N/A                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Space Complexity** | N/A                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| **Techniques**       | 1. Brute Force Algorithms  <br/> 2. Greedy Algorithms <br/> 3. Divide and Conquer Algorithms <br/> 4. Two Pointers Technique <br/> 5. Fast and Slow Pointers Technique <br/> 6. Merge Intervals Technique <br/> 7. Sliding Window Technique <br/> 8. Cyclic Sort Technique <br/> 9. subsets Technique <br/> 10. Topological Sort <br/> 11. Top K Elements Technique <br/> 12. Min Heaps and Max Heaps Technique <br/> |
-| **Sorting**          | 1. Selection Sort <br/> 2. Bubble Sort <br/> 3. Insertion Sort <br/> 4. Merge Sort <br/> 5. Quick Sort <br/> 6. Heap Sort <br/> 7. Bucket Sort <br/>                                                                                                                                                                                                                                                                  |
-| **Searching**        | 1. Tree Traversal Algorithms (Pre-order, In-Order, Post-Order) <br/> 2. Graph Traversal Algorithms (BFS, DFS) <br/> 3. Linear Search <br/> 4. Binary Search <br/>                                                                                                                                                                                                                                                     |
-| **Recursion**        | 1. Iterative vs. Recursive Approach <br/> 2. Memory Utilization of a Recursive Approach <br/> 3. Maintaining Intermediate Results while Using Recursion <br/> 4. Constructing the Recursive Calls and Determining the Base Case <br/>                                                                                                                                                                                 |
+<table>
+ <tr>
+  <td>Knowledge Domain</td>
+  <td>Topic</td>
+  <td>Sub Topics</td>
+ </tr>
+ <tr>
+  <td rowspan=38>Language Basics</td>
+  <td>Java Releases and Evolution</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Compilation</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Running Java Code</td>
+  <td>
+  Java Virtual Machine</td>
+ </tr>
+ <tr>
+  <td>
+  Java Runtime Environment</td>
+ </tr>
+ <tr>
+  <td>
+  Java Development Toolkit</td>
+ </tr>
+ <tr>
+  <td>
+  Class Path</td>
+ </tr>
+ <tr>
+  <td rowspan=7>Variables</td>
+  <td>
+  Declaration and Initialization</td>
+ </tr>
+ <tr>
+  <td>
+  Memory Location and Lifecycle</td>
+ </tr>
+ <tr>
+  <td>
+  Garbage Collection</td>
+ </tr>
+ <tr>
+  <td>
+  Primitive Types</td>
+ </tr>
+ <tr>
+  <td>
+  Non-Primitive Types</td>
+ </tr>
+ <tr>
+  <td>
+  Casting</td>
+ </tr>
+ <tr>
+  <td>
+  Final Variables</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Methods</td>
+  <td>
+  Signature</td>
+ </tr>
+ <tr>
+  <td>
+  Static Method</td>
+ </tr>
+ <tr>
+  <td>
+  Instance Method</td>
+ </tr>
+ <tr>
+  <td>
+  Pass by Value or Pass by Reference</td>
+ </tr>
+ <tr>
+  <td>Operator
+  Precedence</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Math
+  Operations</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>String
+  Manipulation</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Conditionals</td>
+  <td> If
+  Statement</td>
+ </tr>
+ <tr>
+  <td>
+  Switch Statement</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Loops</td>
+  <td> For
+  Loop</td>
+ </tr>
+ <tr>
+  <td>
+  While Loop</td>
+ </tr>
+ <tr>
+  <td>
+  Do-While Loop</td>
+ </tr>
+ <tr>
+  <td>
+  Recursion</td>
+ </tr>
+ <tr>
+  <td rowspan=3>I/O Streams</td>
+  <td>
+  Standard Input</td>
+ </tr>
+ <tr>
+  <td>
+  Standard Output</td>
+ </tr>
+ <tr>
+  <td>
+  Standard Error</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Exceptions</td>
+  <td>
+  Checked Exception</td>
+ </tr>
+ <tr>
+  <td>
+  Unchecked Exception</td>
+ </tr>
+ <tr>
+  <td rowspan=5>Multi-Threading (Basic)</td>
+  <td>
+  Process</td>
+ </tr>
+ <tr>
+  <td>
+  Thread</td>
+ </tr>
+ <tr>
+  <td>Fork
+  / Join</td>
+ </tr>
+ <tr>
+  <td>
+  Mutex</td>
+ </tr>
+ <tr>
+  <td>
+  Race Condition</td>
+ </tr>
+ <tr>
+  <td>Generic</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Differences
+  between C++ and Java</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=22>Data Structures</td>
+  <td>Array</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Collection
+  Interface</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=2>List</td>
+  <td>
+  ArrayList</td>
+ </tr>
+ <tr>
+  <td>
+  LinkedList</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Set</td>
+  <td>
+  HashSet</td>
+ </tr>
+ <tr>
+  <td>TreeSet</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Map</td>
+  <td>HashMap</td>
+ </tr>
+ <tr>
+  <td>TreeMap</td>
+ </tr>
+ <tr>
+  <td>Stack</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Queue</td>
+  <td>
+  Deque</td>
+ </tr>
+ <tr>
+  <td>
+  Priority Queue</td>
+ </tr>
+ <tr>
+  <td rowspan=2>Tree</td>
+  <td>
+  Binary Tree</td>
+ </tr>
+ <tr>
+  <td>
+  BST</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Graph</td>
+  <td>
+  Directed</td>
+ </tr>
+ <tr>
+  <td>
+  Undirected</td>
+ </tr>
+ <tr>
+  <td>
+  Acyclic Graph</td>
+ </tr>
+ <tr>
+  <td>
+  DAG</td>
+ </tr>
+ <tr>
+  <td rowspan=5>Manipulating Data Structures</td>
+  <td>
+  Arrays</td>
+ </tr>
+ <tr>
+  <td>
+  Collections</td>
+ </tr>
+ <tr>
+  <td>
+  Iterations</td>
+ </tr>
+ <tr>
+  <td>
+  Lambda Expressions</td>
+ </tr>
+ <tr>
+  <td>5
+  Streams</td>
+ </tr>
+ <tr>
+  <td rowspan=36>Object Oriented Programming</td>
+  <td rowspan=15>Class &amp;
+  Object</td>
+  <td>
+  What are Classes and Objects?</td>
+ </tr>
+ <tr>
+  <td>
+  Instantiation and the life cycle of an object</td>
+ </tr>
+ <tr>
+  <td>
+  Declaring and Implementing a Class</td>
+ </tr>
+ <tr>
+  <td>
+  Access Modifiers</td>
+ </tr>
+ <tr>
+  <td>
+  Data Member</td>
+ </tr>
+ <tr>
+  <td>
+  Method</td>
+ </tr>
+ <tr>
+  <td>
+  Types of Constructors</td>
+ </tr>
+ <tr>
+  <td>
+  Nested Class</td>
+ </tr>
+ <tr>
+  <td>
+  Accessor</td>
+ </tr>
+ <tr>
+  <td>1
+  Static Variable</td>
+ </tr>
+ <tr>
+  <td>1
+  Static Method</td>
+ </tr>
+ <tr>
+  <td>1
+  Final Class</td>
+ </tr>
+ <tr>
+  <td>1
+  Final Method</td>
+ </tr>
+ <tr>
+  <td>1
+  Enum</td>
+ </tr>
+ <tr>
+  <td>1
+  Date / Time Objects</td>
+ </tr>
+ <tr>
+  <td rowspan=5>Inheritance</td>
+  <td>
+  What is Inheritance?</td>
+ </tr>
+ <tr>
+  <td>
+  Types of Inheritance</td>
+ </tr>
+ <tr>
+  <td>
+  Advantages of Inheritance</td>
+ </tr>
+ <tr>
+  <td>
+  Object Class</td>
+ </tr>
+ <tr>
+  <td>
+  Casting and instanceof</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Polymorphism</td>
+  <td>
+  What is Polymorphism?</td>
+ </tr>
+ <tr>
+  <td>
+  Method Overriding</td>
+ </tr>
+ <tr>
+  <td>
+  Method Overloading</td>
+ </tr>
+ <tr>
+  <td>
+  Static vs. Dynamic Polymorphism</td>
+ </tr>
+ <tr>
+  <td rowspan=5>Abstract Classes and Interfaces</td>
+  <td>
+  Abstraction</td>
+ </tr>
+ <tr>
+  <td>Abstract
+  classes</td>
+ </tr>
+ <tr>
+  <td>
+  Abstract methods</td>
+ </tr>
+ <tr>
+  <td>
+  Interfaces</td>
+ </tr>
+ <tr>
+  <td>
+  Multiple Inheritance</td>
+ </tr>
+ <tr>
+  <td rowspan=7>Further OOP Principles</td>
+  <td>
+  Composition</td>
+ </tr>
+ <tr>
+  <td>
+  Composition vs. Inheritance: Advantages and Disadvantages</td>
+ </tr>
+ <tr>
+  <td>
+  Association</td>
+ </tr>
+ <tr>
+  <td>
+  Aggregation</td>
+ </tr>
+ <tr>
+  <td>
+  Encapsulation</td>
+ </tr>
+ <tr>
+  <td>
+  Single Responsibility Principle</td>
+ </tr>
+ <tr>
+  <td>
+  Open/Closed Principle</td>
+ </tr>
+ <tr>
+  <td rowspan=29>Algorithms</td>
+  <td>Time Complexity</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td>Space
+  Complexity</td>
+  <td>&nbsp;</td>
+ </tr>
+ <tr>
+  <td rowspan=12>Techniques</td>
+  <td>
+  Brute Force Algorithms</td>
+ </tr>
+ <tr>
+  <td>
+  Greedy Algorithms</td>
+ </tr>
+ <tr>
+  <td>
+  Divide and Conquer Algorithms</td>
+ </tr>
+ <tr>
+  <td>
+  Two Pointers Technique</td>
+ </tr>
+ <tr>
+  <td>
+  Fast and Slow Pointers Technique</td>
+ </tr>
+ <tr>
+  <td>
+  Merge Intervals Technique</td>
+ </tr>
+ <tr>
+  <td>
+  Sliding Window Technique</td>
+ </tr>
+ <tr>
+  <td>
+  Cyclic Sort Technique</td>
+ </tr>
+ <tr>
+  <td>
+  subsets Technique</td>
+ </tr>
+ <tr>
+  <td>1
+  Topological Sort</td>
+ </tr>
+ <tr>
+  <td>1
+  Top K Elements Technique</td>
+ </tr>
+ <tr>
+  <td>1
+  Min Heaps and Max Heaps Technique</td>
+ </tr>
+ <tr>
+  <td rowspan=7>Sorting</td>
+  <td>
+  Selection Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Bubble Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Insertion Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Merge Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Quick Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Heap Sort</td>
+ </tr>
+ <tr>
+  <td>
+  Bucket Sort</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Searching</td>
+  <td>
+  Tree Traversal Algorithms (Pre-order, In-Order, Post-Order)</td>
+ </tr>
+ <tr>
+  <td>
+  Graph Traversal Algorithms (BFS, DFS)</td>
+ </tr>
+ <tr>
+  <td>
+  Linear Search</td>
+ </tr>
+ <tr>
+  <td>
+  Binary Search</td>
+ </tr>
+ <tr>
+  <td rowspan=4>Recursion</td>
+  <td>
+  Iterative vs. Recursive Approach</td>
+ </tr>
+ <tr>
+  <td>
+  Memory Utilization of a Recursive Approach</td>
+ </tr>
+ <tr>
+  <td>
+  Maintaining Intermediate Results while Using Recursion</td>
+ </tr>
+ <tr>
+  <td>
+  Constructing the Recursive Calls and Determining the Base Case</td>
+ </tr>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+</table>
 
 
 ## Resources:
