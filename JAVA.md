@@ -64,21 +64,21 @@
    1. HashSet
    2. TreeSet
 5. **Map**    
-   1.HashMap 
-6. 2.TreeMap
-7. **Stack**                      
-8. **Queue**
+   1. HashMap 
+   2. TreeMap
+6. **Stack**                      
+7. **Queue**
    1. Deque
    2. Priority Queue
-9. **Tree** 
+8. **Tree** 
    1. Binary Tree 
    2. BST (Binary Search Tree) 
-10. **Graph**
-    1. Directed Graph
-    2. Undirected Graph
-    3. Acyclic Graph
-    4. DAG
-11. **Manipulating Data Structures**
+9. **Graph**
+   1. Directed Graph
+   2. Undirected Graph
+   3. Acyclic Graph
+   4. DAG
+10. **Manipulating Data Structures**
     1. Arrays
     2. Collections
     3. Iterations
@@ -126,11 +126,10 @@
    4. Aggregation
    5. Encapsulation
    6. Single Responsibility Principle
-   7. Open/Closed Principle                                                                                                                                                                                    |
+   7. Open/Closed Principle
 
 #### IV. Algorithms
-1. **Time Complexity**                                                                                                                                                                                                                                                                                                                                                                                                                     
-2. **Space Complexity**                                                                                                                                                                                                                                                                                                                                                                                                                    
+1. **Space & Time Complexity**                                                                                                                                                                                                                                                                                                                                                                                                                    
 3. **Techniques**
    1. Brute Force Algorithms
    2. Greedy Algorithms
