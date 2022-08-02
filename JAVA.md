@@ -540,11 +540,6 @@
   <td>
   Constructing the Recursive Calls and Determining the Base Case</td>
  </tr>
- <tr>
-  <td></td>
-  <td></td>
-  <td></td>
- </tr>
 </table>
 
 
