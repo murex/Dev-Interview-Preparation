@@ -545,12 +545,6 @@
   <td></td>
   <td></td>
  </tr>
- <![if supportMisalignedColumns]>
- <tr>
-  <td></td>
-  <td></td>
-  <td></td>
- </tr>
 </table>
 
 
