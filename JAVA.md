@@ -3,14 +3,13 @@
 ## Knowledge Domains
 
 ### Language Basics 
-
 <details>
 <summary>Click to expand the learning outline for Language Basics</summary>
 <table>
  <tr>
-  <td>Knowledge Domain</td>
-  <td>Topic</td>
-  <td>Sub Topics</td>
+  <td style="font-weight: bold; font-size: medium">Knowledge Domain</td>
+  <td style="font-weight: bold; font-size: medium">Topic</td>
+  <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
   <td rowspan=38>Language Basics</td>
@@ -151,9 +150,9 @@
 
 <table>
  <tr>
-  <td>Knowledge Domain</td>
-  <td>Topic</td>
-  <td>Sub Topics</td>
+  <td style="font-weight: bold; font-size: medium">Knowledge Domain</td>
+  <td style="font-weight: bold; font-size: medium">Topic</td>
+  <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
   <td rowspan=22>Data Structures</td>
@@ -243,9 +242,9 @@
 
 <table>
  <tr>
-  <td>Knowledge Domain</td>
-  <td>Topic</td>
-  <td>Sub Topics</td>
+  <td style="font-weight: bold; font-size: medium">Knowledge Domain</td>
+  <td style="font-weight: bold; font-size: medium">Topic</td>
+  <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
   <td rowspan=36>Object Oriented Programming</td>
@@ -370,9 +369,9 @@
 
 <table>
  <tr>
-  <td>Knowledge Domain</td>
-  <td>Topic</td>
-  <td>Sub Topics</td>
+  <td style="font-weight: bold; font-size: medium">Knowledge Domain</td>
+  <td style="font-weight: bold; font-size: medium">Topic</td>
+  <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
   <td rowspan=29>Algorithms</td>
