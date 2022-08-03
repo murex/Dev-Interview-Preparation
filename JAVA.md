@@ -1,7 +1,11 @@
 # Learning Content for the Java Interview
 
-## Topics to Cover:
+## Knowledge Domains
 
+### Language Basics 
+
+<details>
+<summary>Click to expand the learning outline for Language Basics</summary>
 <table>
  <tr>
   <td>Knowledge Domain</td>
@@ -138,6 +142,19 @@
   <td>Differences between C++ and Java</td>
   <td>&nbsp;</td>
  </tr>
+</table>
+</details>
+
+### Data Structures 
+<details>
+<summary>Click to expand the learning outline for Data Structures</summary>
+
+<table>
+ <tr>
+  <td>Knowledge Domain</td>
+  <td>Topic</td>
+  <td>Sub Topics</td>
+ </tr>
  <tr>
   <td rowspan=22>Data Structures</td>
   <td>Array</td>
@@ -215,6 +232,20 @@
  </tr>
  <tr>
   <td>Streams</td>
+ </tr>
+</table>
+
+</details>
+
+### Object-Oriented Programming 
+<details>
+<summary>Click to expand the learning outline for Object-Oriented Programming</summary>
+
+<table>
+ <tr>
+  <td>Knowledge Domain</td>
+  <td>Topic</td>
+  <td>Sub Topics</td>
  </tr>
  <tr>
   <td rowspan=36>Object Oriented Programming</td>
@@ -330,6 +361,19 @@
  <tr>
   <td>Open/Closed Principle</td>
  </tr>
+</table>
+</details>
+
+### Algorithms
+<details>
+<summary>Click to expand the learning outline for Algorithms</summary>
+
+<table>
+ <tr>
+  <td>Knowledge Domain</td>
+  <td>Topic</td>
+  <td>Sub Topics</td>
+ </tr>
  <tr>
   <td rowspan=29>Algorithms</td>
   <td>Time Complexity</td>
@@ -425,6 +469,7 @@
   <td>Constructing the Recursive Calls and Determining the Base Case</td>
  </tr>
 </table>
+</details>
 
 ## Resources:
 
