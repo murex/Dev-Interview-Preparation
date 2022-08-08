@@ -2,7 +2,7 @@
 
 ## Knowledge Domains
 
-### Language Basics 
+### I. Language Basics 
 <details>
 <summary>Click to expand the learning outline for Language Basics</summary>
 <table>
@@ -12,139 +12,139 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=38>Language Basics</td>
-  <td>Java Releases and Evolution</td>
+  <td rowspan=38>I. Language Basics</td>
+  <td>1. Java Releases and Evolution</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Compilation</td>
+  <td>2. Compilation</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td rowspan=4>Running Java Code</td>
-  <td>Java Virtual Machine</td>
+  <td rowspan=4>3. Running Java Code</td>
+  <td>1. Java Virtual Machine</td>
  </tr>
  <tr>
-  <td>Java Runtime Environment</td>
+  <td>2. Java Runtime Environment</td>
  </tr>
  <tr>
-  <td>Java Development Toolkit</td>
+  <td>3. Java Development Toolkit</td>
  </tr>
  <tr>
-  <td>Class Path</td>
+  <td>4. Class Path</td>
  </tr>
  <tr>
-  <td rowspan=7>Variables</td>
-  <td>Declaration and Initialization</td>
+  <td rowspan=7>3. Variables</td>
+  <td>1. Declaration and Initialization</td>
  </tr>
  <tr>
-  <td>Memory Location and Lifecycle</td>
+  <td>2. Memory Location and Lifecycle</td>
  </tr>
  <tr>
-  <td>Garbage Collection</td>
+  <td>3. Garbage Collection</td>
  </tr>
  <tr>
-  <td>Primitive Types</td>
+  <td>4. Primitive Types</td>
  </tr>
  <tr>
-  <td>Non-Primitive Types</td>
+  <td>5. Non-Primitive Types</td>
  </tr>
  <tr>
-  <td>Casting</td>
+  <td>6. Casting</td>
  </tr>
  <tr>
-  <td>Final Variables</td>
+  <td>7. Final Variables</td>
  </tr>
  <tr>
-  <td rowspan=4>Methods</td>
-  <td>Signature</td>
+  <td rowspan=4>4. Methods</td>
+  <td>1. Signature</td>
  </tr>
  <tr>
-  <td>Static Method</td>
+  <td>2. Static Method</td>
  </tr>
  <tr>
-  <td>Instance Method</td>
+  <td>3. Instance Method</td>
  </tr>
  <tr>
-  <td>Pass by Value or Pass by Reference</td>
+  <td>4. Pass by Value or Pass by Reference</td>
  </tr>
  <tr>
-  <td>OperatorPrecedence</td>
+  <td>5. OperatorPrecedence</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Math Operations</td>
+  <td>6. Math Operations</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>String Manipulation</td>
+  <td>7. String Manipulation</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td rowspan=2>Conditionals</td>
-  <td> If Statement</td>
+  <td rowspan=2>8. Conditionals</td>
+  <td>1. If Statement</td>
  </tr>
  <tr>
-  <td>Switch Statement</td>
+  <td>2. Switch Statement</td>
  </tr>
  <tr>
-  <td rowspan=4>Loops</td>
-  <td>For Loop</td>
+  <td rowspan=4>9. Loops</td>
+  <td>1. For Loop</td>
  </tr>
  <tr>
-  <td>While Loop</td>
+  <td>2. While Loop</td>
  </tr>
  <tr>
-  <td>Do-While Loop</td>
+  <td>3. Do-While Loop</td>
  </tr>
  <tr>
-  <td>Recursion</td>
+  <td>4. Recursion</td>
  </tr>
  <tr>
-  <td rowspan=3>I/O Streams</td>
-  <td>Standard Input</td>
+  <td rowspan=3>10. I/O Streams</td>
+  <td>1. Standard Input</td>
  </tr>
  <tr>
-  <td>Standard Output</td>
+  <td>2. Standard Output</td>
  </tr>
  <tr>
-  <td>Standard Error</td>
+  <td>3. Standard Error</td>
  </tr>
  <tr>
-  <td rowspan=2>Exceptions</td>
-  <td>Checked Exception</td>
+  <td rowspan=2>11. Exceptions</td>
+  <td>1. Checked Exception</td>
  </tr>
  <tr>
-  <td>Unchecked Exception</td>
+  <td>2. Unchecked Exception</td>
  </tr>
  <tr>
-  <td rowspan=5>Multi-Threading (Basic)</td>
-  <td>Process</td>
+  <td rowspan=5>12. Multi-Threading (Basic)</td>
+  <td>1. Process</td>
  </tr>
  <tr>
-  <td>Thread</td>
+  <td>2. Thread</td>
  </tr>
  <tr>
-  <td>Fork / Join</td>
+  <td>3. Fork / Join</td>
  </tr>
  <tr>
-  <td>Mutex</td>
+  <td>4. Mutex</td>
  </tr>
  <tr>
-  <td>Race Condition</td>
+  <td>5. Race Condition</td>
  </tr>
  <tr>
-  <td>Generic</td>
+  <td>13. Generic</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Differences between C++ and Java</td>
+  <td>14. Differences between C++ and Java</td>
   <td>&nbsp;</td>
  </tr>
 </table>
 </details>
 
-### Data Structures 
+### II. Data Structures 
 <details>
 <summary>Click to expand the learning outline for Data Structures</summary>
 
@@ -155,88 +155,87 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=22>Data Structures</td>
-  <td>Array</td>
+  <td rowspan=22>II. Data Structures</td>
+  <td>1. Array</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Collection Interface</td>
+  <td>2. Collection Interface</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td rowspan=2>List</td>
-  <td>ArrayList</td>
+  <td rowspan=2>3. List</td>
+  <td>1. ArrayList</td>
  </tr>
  <tr>
-  <td>LinkedList</td>
+  <td>2. LinkedList</td>
  </tr>
  <tr>
-  <td rowspan=2>Set</td>
-  <td>HashSet</td>
+  <td rowspan=2>4. Set</td>
+  <td>1. HashSet</td>
  </tr>
  <tr>
-  <td>TreeSet</td>
+  <td>2. TreeSet</td>
  </tr>
  <tr>
-  <td rowspan=2>Map</td>
-  <td>HashMap</td>
+  <td rowspan=2>5. Map</td>
+  <td>1. HashMap</td>
  </tr>
  <tr>
-  <td>TreeMap</td>
+  <td>2. TreeMap</td>
  </tr>
  <tr>
-  <td>Stack</td>
+  <td>6. Stack</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td rowspan=2>Queue</td>
-  <td>Deque</td>
+  <td rowspan=2>7. Queue</td>
+  <td>1. Deque</td>
  </tr>
  <tr>
-  <td>Priority Queue</td>
+  <td>2. Priority Queue</td>
  </tr>
  <tr>
-  <td rowspan=2>Tree</td>
-  <td>
-  Binary Tree</td>
+  <td rowspan=2>8. Tree</td>
+  <td>1. Binary Tree</td>
  </tr>
  <tr>
-  <td>BST</td>
+  <td>2. BST</td>
  </tr>
  <tr>
-  <td rowspan=4>Graph</td>
-  <td>Directed</td>
+  <td rowspan=4>9. Graph</td>
+  <td>1. Directed</td>
  </tr>
  <tr>
-  <td>Undirected</td>
+  <td>2. Undirected</td>
  </tr>
  <tr>
-  <td>Acyclic Graph</td>
+  <td>3. Acyclic Graph</td>
  </tr>
  <tr>
-  <td>DAG</td>
+  <td>4. DAG</td>
  </tr>
  <tr>
-  <td rowspan=5>Manipulating Data Structures</td>
-  <td>Arrays</td>
+  <td rowspan=5>10. Manipulating Data Structures</td>
+  <td>1. Arrays</td>
  </tr>
  <tr>
-  <td>Collections</td>
+  <td>2. Collections</td>
  </tr>
  <tr>
-  <td>Iterations</td>
+  <td>3. Iterations</td>
  </tr>
  <tr>
-  <td>Lambda Expressions</td>
+  <td>4. Lambda Expressions</td>
  </tr>
  <tr>
-  <td>Streams</td>
+  <td>5. Streams</td>
  </tr>
 </table>
 
 </details>
 
-### Object-Oriented Programming 
+### III. Object-Oriented Programming 
 <details>
 <summary>Click to expand the learning outline for Object-Oriented Programming</summary>
 
@@ -247,123 +246,123 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=36>Object Oriented Programming</td>
-  <td rowspan=15>Class &amp;Object</td>
-  <td>What are Classes and Objects?</td>
+  <td rowspan=36>III. Object-Oriented Programming</td>
+  <td rowspan=15>1. Class &amp;Object</td>
+  <td>1. What are Classes and Objects?</td>
  </tr>
  <tr>
-  <td>Instantiation and the life cycle of an object</td>
+  <td>2. Instantiation and the life cycle of an object</td>
  </tr>
  <tr>
-  <td>Declaring and Implementing a Class</td>
+  <td>3. Declaring and Implementing a Class</td>
  </tr>
  <tr>
-  <td>Access Modifiers</td>
+  <td>4. Access Modifiers</td>
  </tr>
  <tr>
-  <td>Data Member</td>
+  <td>5. Data Member</td>
  </tr>
  <tr>
-  <td>Method</td>
+  <td>6. Method</td>
  </tr>
  <tr>
-  <td>Types of Constructors</td>
+  <td>7. Types of Constructors</td>
  </tr>
  <tr>
-  <td>Nested Class</td>
+  <td>8. Nested Class</td>
  </tr>
  <tr>
-  <td>Accessor</td>
+  <td>9. Accessor</td>
  </tr>
  <tr>
-  <td>Static Variable</td>
+  <td>10. Static Variable</td>
  </tr>
  <tr>
-  <td>Static Method</td>
+  <td>11. Static Method</td>
  </tr>
  <tr>
-  <td>Final Class</td>
+  <td>12. Final Class</td>
  </tr>
  <tr>
-  <td>Final Method</td>
+  <td>13. Final Method</td>
  </tr>
  <tr>
-  <td>Enum</td>
+  <td>14. Enum</td>
  </tr>
  <tr>
-  <td>Date / Time Objects</td>
+  <td>15. Date / Time Objects</td>
  </tr>
  <tr>
-  <td rowspan=5>Inheritance</td>
-  <td>What is Inheritance?</td>
+  <td rowspan=5>2. Inheritance</td>
+  <td>1. What is Inheritance?</td>
  </tr>
  <tr>
-  <td>Types of Inheritance</td>
+  <td>2. Types of Inheritance</td>
  </tr>
  <tr>
-  <td>Advantages of Inheritance</td>
+  <td>3. Advantages of Inheritance</td>
  </tr>
  <tr>
-  <td>Object Class</td>
+  <td>4. Object Class</td>
  </tr>
  <tr>
-  <td>Casting and instanceof</td>
+  <td>5. Casting and instanceof</td>
  </tr>
  <tr>
-  <td rowspan=4>Polymorphism</td>
-  <td>What is Polymorphism?</td>
+  <td rowspan=4>3. Polymorphism</td>
+  <td>1. What is Polymorphism?</td>
  </tr>
  <tr>
-  <td>Method Overriding</td>
+  <td>2. Method Overriding</td>
  </tr>
  <tr>
-  <td>Method Overloading</td>
+  <td>3. Method Overloading</td>
  </tr>
  <tr>
-  <td>Static vs. Dynamic Polymorphism</td>
+  <td>4. Static vs. Dynamic Polymorphism</td>
  </tr>
  <tr>
-  <td rowspan=5>Abstract Classes and Interfaces</td>
-  <td>Abstraction</td>
+  <td rowspan=5>4. Abstract Classes and Interfaces</td>
+  <td>1. Abstraction</td>
  </tr>
  <tr>
-  <td>Abstract Classes</td>
+  <td>2. Abstract Classes</td>
  </tr>
  <tr>
-  <td>Abstract Methods</td>
+  <td>3. Abstract Methods</td>
  </tr>
  <tr>
-  <td>Interfaces</td>
+  <td>4. Interfaces</td>
  </tr>
  <tr>
-  <td>Multiple Inheritance</td>
+  <td>5. Multiple Inheritance</td>
  </tr>
  <tr>
-  <td rowspan=7>Further OOP Principles</td>
-  <td>Composition</td>
+  <td rowspan=7>5. Further OOP Principles</td>
+  <td>1. Composition</td>
  </tr>
  <tr>
-  <td>Composition vs. Inheritance: Advantages and Disadvantages</td>
+  <td>2. Composition vs. Inheritance: Advantages and Disadvantages</td>
  </tr>
  <tr>
-  <td>Association</td>
+  <td>3. Association</td>
  </tr>
  <tr>
-  <td>Aggregation</td>
+  <td>4. Aggregation</td>
  </tr>
  <tr>
-  <td>Encapsulation</td>
+  <td>5. Encapsulation</td>
  </tr>
  <tr>
-  <td>Single Responsibility Principle</td>
+  <td>6. Single Responsibility Principle</td>
  </tr>
  <tr>
-  <td>Open/Closed Principle</td>
+  <td>7. Open/Closed Principle</td>
  </tr>
 </table>
 </details>
 
-### Algorithms
+### IV. Algorithms
 <details>
 <summary>Click to expand the learning outline for Algorithms</summary>
 
@@ -374,98 +373,98 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=29>Algorithms</td>
-  <td>Time Complexity</td>
+  <td rowspan=29>IV. Algorithms</td>
+  <td>1. Time Complexity</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>SpaceComplexity</td>
+  <td>2. SpaceComplexity</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td rowspan=12>Techniques</td>
-  <td>Brute Force Algorithms</td>
+  <td rowspan=12>3. Techniques</td>
+  <td>1. Brute Force Algorithms</td>
  </tr>
  <tr>
-  <td>Greedy Algorithms</td>
+  <td>2. Greedy Algorithms</td>
  </tr>
  <tr>
-  <td>Divide and Conquer Algorithms</td>
+  <td>3. Divide and Conquer Algorithms</td>
  </tr>
  <tr>
-  <td>Two Pointers Technique</td>
+  <td>4. Two Pointers Technique</td>
  </tr>
  <tr>
-  <td>Fast and Slow Pointers Technique</td>
+  <td>5. Fast and Slow Pointers Technique</td>
  </tr>
  <tr>
-  <td>Merge Intervals Technique</td>
+  <td>6. Merge Intervals Technique</td>
  </tr>
  <tr>
-  <td>Sliding Window Technique</td>
+  <td>7. Sliding Window Technique</td>
  </tr>
  <tr>
-  <td>Cyclic Sort Technique</td>
+  <td>8. Cyclic Sort Technique</td>
  </tr>
  <tr>
-  <td>Subsets Technique</td>
+  <td>9. Subsets Technique</td>
  </tr>
  <tr>
-  <td>Topological Sort</td>
+  <td>10. Topological Sort</td>
  </tr>
  <tr>
-  <td>Top K Elements Technique</td>
+  <td>11. Top K Elements Technique</td>
  </tr>
  <tr>
-  <td>Min Heaps and Max Heaps Technique</td>
+  <td>12. Min Heaps and Max Heaps Technique</td>
  </tr>
  <tr>
-  <td rowspan=7>Sorting</td>
-  <td>Selection Sort</td>
+  <td rowspan=7>4. Sorting</td>
+  <td>1. Selection Sort</td>
  </tr>
  <tr>
-  <td>Bubble Sort</td>
+  <td>2. Bubble Sort</td>
  </tr>
  <tr>
-  <td>Insertion Sort</td>
+  <td>3. Insertion Sort</td>
  </tr>
  <tr>
-  <td>Merge Sort</td>
+  <td>4. Merge Sort</td>
  </tr>
  <tr>
-  <td>Quick Sort</td>
+  <td>5. Quick Sort</td>
  </tr>
  <tr>
-  <td>Heap Sort</td>
+  <td>6. Heap Sort</td>
  </tr>
  <tr>
-  <td>Bucket Sort</td>
+  <td>7. Bucket Sort</td>
  </tr>
  <tr>
-  <td rowspan=4>Searching</td>
-  <td>Tree Traversal Algorithms (Pre-order, In-Order, Post-Order)</td>
+  <td rowspan=4>5. Searching</td>
+  <td>1. Tree Traversal Algorithms (Pre-order, In-Order, Post-Order)</td>
  </tr>
  <tr>
-  <td>Graph Traversal Algorithms (BFS, DFS)</td>
+  <td>2. Graph Traversal Algorithms (BFS, DFS)</td>
  </tr>
  <tr>
-  <td>Linear Search</td>
+  <td>3. Linear Search</td>
  </tr>
  <tr>
-  <td>Binary Search</td>
+  <td>4. Binary Search</td>
  </tr>
  <tr>
-  <td rowspan=4>Recursion</td>
-  <td>Iterative vs. Recursive Approach</td>
+  <td rowspan=4>6. Recursion</td>
+  <td>1. Iterative vs. Recursive Approach</td>
  </tr>
  <tr>
-  <td>Memory Utilization of a Recursive Approach</td>
+  <td>2. Memory Utilization of a Recursive Approach</td>
  </tr>
  <tr>
-  <td>Maintaining Intermediate Results while Using Recursion</td>
+  <td>3. Maintaining Intermediate Results while Using Recursion</td>
  </tr>
  <tr>
-  <td>Constructing the Recursive Calls and Determining the Base Case</td>
+  <td>4. Constructing the Recursive Calls and Determining the Base Case</td>
  </tr>
 </table>
 </details>
