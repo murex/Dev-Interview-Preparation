@@ -2,7 +2,7 @@
 
 ## Knowledge Domains
 
-### Language Basics
+### I. Language Basics
 <details>
 <summary>Click to expand the learning outline for Language Basics</summary>
 <table>
@@ -12,132 +12,125 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=40>Language Basics</td>
-  <td>C++ Evolution</td>
+  <td rowspan=40>I. Language Basics</td>
+  <td>1. C++ Evolution</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Compilation</td>
+  <td>2. Compilation</td>
   <td>&nbsp;</td>
  </tr>
  <tr>
-  <td>Running C++ Code</td>
+  <td>3. Running C++ Code</td>
   <td> </td>
  </tr>
  <tr>
-  <td rowspan=6>Variables</td>
-  <td>Declaration and Initialization</td>
+  <td rowspan=6>4. Variables</td>
+  <td>1. Declaration and Initialization</td>
  </tr>
  <tr>
-  <td>Memory Location and Lifecycle</td>
+  <td>2. Memory Location and Lifecycle</td>
  </tr>
  <tr>
-  <td>Primitive Types</td>
+  <td>3. Primitive Types</td>
  </tr>
  <tr>
-  <td>Non-Primitive Types</td>
+  <td>4. Non-Primitive Types</td>
  </tr>
  <tr>
-  <td>Casting</td>
+  <td>5. Casting</td>
  </tr>
  <tr>
-  <td>Const Variables</td>
+  <td>6. Const Variables</td>
  </tr>
  <tr>
-  <td rowspan=4>Methods</td>
-  <td>Signature</td>
+  <td rowspan=4>5. Methods</td>
+  <td>1. Signature</td>
  </tr>
  <tr>
-  <td>Static Method</td>
+  <td>2. Static Method</td>
  </tr>
  <tr>
-  <td>Instance Method</td>
+  <td>3. Instance Method</td>
  </tr>
  <tr>
-  <td>Pass by Value or Pass by Reference</td>
+  <td>4. Pass by Value or Pass by Reference</td>
  </tr>
  <tr>
-  <td>OperatorPrecedence</td>
-  <td>&nbsp;</td>
+  <td>5. OperatorPrecedence</td>
  </tr>
  <tr>
-  <td>Math Operations</td>
-  <td>&nbsp;</td>
+  <td>6. Math Operations</td>
  </tr>
  <tr>
-  <td>String Manipulation</td>
-  <td>&nbsp;</td>
+  <td>7. String Manipulation</td>
  </tr>
  <tr>
-  <td rowspan=2>Conditionals</td>
-  <td> If Statement</td>
+  <td rowspan=2>8. Conditionals</td>
+  <td>1. If Statement</td>
  </tr>
  <tr>
-  <td>Switch Statement</td>
+  <td>2. Switch Statement</td>
  </tr>
  <tr>
-  <td rowspan=4>Loops</td>
-  <td>For Loop</td>
+  <td rowspan=4>9. Loops</td>
+  <td>1. For Loop</td>
  </tr>
  <tr>
-  <td>While Loop</td>
+  <td>2. While Loop</td>
  </tr>
  <tr>
-  <td>Do-While Loop</td>
+  <td>3. Do-While Loop</td>
  </tr>
  <tr>
-  <td>Recursion</td>
+  <td>4. Recursion</td>
  </tr>
  <tr>
-  <td rowspan=3>I/O Streams</td>
-  <td>Standard Input</td>
+  <td rowspan=3>10. I/O Streams</td>
+  <td>1. Standard Input</td>
  </tr>
  <tr>
-  <td>Standard Output</td>
+  <td>2. Standard Output</td>
  </tr>
  <tr>
-  <td>Standard Error</td>
+  <td>3. Standard Error</td>
  </tr>
  <tr>
-  <td>Exceptions</td>
+  <td>11. Exceptions</td>
   <td></td>
  </tr>
  <tr>
-  <td rowspan=5>Multi-Threading (Basic)</td>
-  <td>Process</td>
+  <td rowspan=5>12. Multi-Threading (Basic)</td>
+  <td>1. Process</td>
  </tr>
  <tr>
-  <td>Thread</td>
+  <td>2. Thread</td>
  </tr>
  <tr>
-  <td>Fork / Join</td>
+  <td>3. Fork / Join</td>
  </tr>
  <tr>
-  <td>Mutex</td>
+  <td>4. Mutex</td>
  </tr>
  <tr>
-  <td>Race Condition</td>
+  <td>5. Race Condition</td>
  </tr>
  <tr>
-  <td>Template</td>
-  <td>&nbsp;</td>
+  <td>13. Template</td>
  </tr>
  <tr>
-  <td>Differences between C++ and Java</td>
-  <td>&nbsp;</td>
+  <td>14. Differences between C++ and Java</td>
  </tr>
  <tr>
-  <td>STL</td>
-  <td>&nbsp;</td>
+  <td>15. STL</td>
  </tr>
  <tr>
-  <td>Namespaces</td>
-  <td>&nbsp;</td>
+  <td>16. Namespaces</td>
  </tr>
 </table>
 </details>
 
-### Data Structures
+### II. Data Structures
 <details>
 <summary>Click to expand the learning outline for Data Structures</summary>
 
@@ -148,7 +141,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=25>2. Data Structures</td>
+  <td rowspan=25>II. Data Structures</td>
   <td rowspan=2>1. Array</td>
   <td>1. std::vector</td>
  </tr>
@@ -251,7 +244,7 @@
 
 </details>
 
-### Object-Oriented Programming
+### III. Object-Oriented Programming
 <details>
 <summary>Click to expand the learning outline for Object-Oriented Programming</summary>
 
@@ -262,7 +255,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=48>3. OOP</td>
+  <td rowspan=48>III. OOP</td>
   <td rowspan=18>1. Classes and Objects</td>
   <td>1. What are Classes and Objects/Structs?</td>
  </tr>
@@ -415,7 +408,7 @@
 </table>
 </details>
 
-### Algorithms
+### IV. Algorithms
 <details>
 <summary>Click to expand the learning outline for Algorithms</summary>
 
@@ -426,7 +419,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=29>4. Algorithms</td>
+  <td rowspan=29>IV. Algorithms</td>
   <td>1. Time Complexity</td>
  </tr>
  <tr>
