@@ -3,6 +3,7 @@
 ## Knowledge Domains
 
 ### I. Language Basics
+
 <details>
 <summary>Click to expand the learning outline for Language Basics</summary>
 <table>
@@ -58,12 +59,15 @@
  </tr>
  <tr>
   <td>5. OperatorPrecedence</td>
+    <td></td>
  </tr>
  <tr>
   <td>6. Math Operations</td>
+    <td></td>
  </tr>
  <tr>
   <td>7. String Manipulation</td>
+    <td></td>
  </tr>
  <tr>
   <td rowspan=2>8. Conditionals</td>
@@ -117,20 +121,25 @@
  </tr>
  <tr>
   <td>13. Template</td>
+    <td></td>
  </tr>
  <tr>
   <td>14. Differences between C++ and Java</td>
+    <td></td>
  </tr>
  <tr>
   <td>15. STL</td>
+    <td></td>
  </tr>
  <tr>
   <td>16. Namespaces</td>
+    <td></td>
  </tr>
 </table>
 </details>
 
 ### II. Data Structures
+
 <details>
 <summary>Click to expand the learning outline for Data Structures</summary>
 
@@ -245,6 +254,7 @@
 </details>
 
 ### III. Object-Oriented Programming
+
 <details>
 <summary>Click to expand the learning outline for Object-Oriented Programming</summary>
 
@@ -409,6 +419,7 @@
 </details>
 
 ### IV. Algorithms
+
 <details>
 <summary>Click to expand the learning outline for Algorithms</summary>
 
@@ -514,4 +525,5 @@
 </details>
 
 ## Resources:
+
 - [LearnCPP](https://www.learncpp.com/)
