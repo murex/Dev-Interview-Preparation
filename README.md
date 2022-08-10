@@ -22,9 +22,15 @@ We grouped the learning material for both Java and C++ into four knowledge domai
 ## What to Prepare
 Based on your choice and preference, you will be selected for either an OOP or an Algorithm based technical interview.
 
-The OOP-based interview will include questions from Language Basics, Data Structures, and Object-Oriented Programming knowledge domains.
+The OOP-based interview will include questions from the following knowledge domains: 
+1. Language Basics
+2. Data Structures
+3. Object-Oriented Programming
 
-On the other hand, an Algorithm based interview will consist of questions from Language Basics, Data Structures, and Algorithms knowledge domains.
+On the other hand, an Algorithm based interview will consist of questions from the following knowledge domains: 
+1. Language Basics
+2. Data Structures
+3. Algorithms
 
 Based on that, we advise you to focus on the sections corresponding to your interview type.
 
