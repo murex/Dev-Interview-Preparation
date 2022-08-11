@@ -527,3 +527,5 @@
 ## Resources:
 
 - [LearnCPP](https://www.learncpp.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
+- [LeetCode](https://leetcode.com/) 

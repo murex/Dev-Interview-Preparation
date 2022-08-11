@@ -10,7 +10,7 @@ The Murex Hiring process for any “Development” role consists of the followin
 
 We highly encourage you to go through the resources and materials shared on the following link before you apply to Murex.
 
-These resources will help you prepare for the different technical topics you will be assessed on when sitting for our Technical test and when meeting with our experts.
+These resources will help you prepare for the different technical topics you will be assessed on when sitting for our technical test and when meeting with our experts.
 
 ## 2. Online Application
 
