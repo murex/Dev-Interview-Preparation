@@ -8,9 +8,9 @@ The Murex Hiring process for any “Development” role consists of the followin
 
 ## 1. Prepare for Your Recruitment Process
 
-We highly encourage you to go through the resources and materials shared on the following link before you apply to Murex.
+We highly encourage you to go through the resources and materials shared in the "_**Getting Yourself Ready**_" section before you apply to Murex.
 
-These resources will help you prepare for the different technical topics you will be assessed on when sitting for our technical test and when meeting with our experts.
+These resources will help you prepare for the different technical topics that you will be assessed on when sitting for our technical test and when meeting with our experts.
 
 ## 2. Online Application
 
@@ -26,19 +26,21 @@ Having said that, make sure that you are well prepared before being contacted by
 
 After submitting your online application and updated resume, your CV will be thoroughly reviewed by the recruitment team to ensure that your profile (educational background and experience) matches with the job requirements for which you have applied.
 
-Below is some advice we would like you to consider while updating your CV:
+Below are some pieces of advice we would like you to consider while updating your CV:
 
-1. Ensure that your CV is concise, and still reflects all information that might be valuable and relevant for the role you are applying for
-2. Make sure it is aligned with the opportunity you are applying for
-3. List the projects you have worked on during your studies/end of year project/internships/professional experience
+Ensure that your CV is concise, and still reflects all information that might be valuable and relevant for the role you are applying for
+Make sure it is aligned with the opportunity you are applying for
+List the projects you have worked on during your studies / end of year project / internships / professional experience
 
 ## 4. Technical Test
 
 A link will be shared with you to conduct our online technical test.
 
-The Talent Acquisition team will coordinate with you to agree on a specific date for the test (usually within 2 weeks after being contacted)
+The Talent Acquisition team will coordinate with you to agree on a specific date for the test (usually within 2 weeks after being contacted).
 
-And in case you went through the training material and feel ready, the online test will be scheduled within a couple of days
+In case you went through the training material and feel ready, the online test will be scheduled within a couple of days.
+
+Make sure that you read the "_**Getting Yourself Ready**_" section before this step.
 
 ## 5. HR Interview
 
@@ -52,11 +54,11 @@ To prepare for this part of the process, we encourage you to:
 
 ## 6. Technical Interview
 
-Once you go through the HR interview, you will be invited for a technical one for a duration of XXX minutes.
+Once you go through the HR interview, you will be invited for a technical one for a duration of two hours.
 
 You will be meeting with two experts from the DEV department. Your interviewers would like to know more about your technical skills. They will ask you some technical questions to better assess your coding skills and knowledge and better understand your reasoning thinking. Being able to show your reasoning skills is as important as giving the right answer!
 
-Check the next section "_**Getting Yourself Ready**_" to know how to prepare for the technical interview.
+Make sure that you read the "_**Getting Yourself Ready**_" section before this step.
 
 ## 7. Matching Interview
 
@@ -73,7 +75,7 @@ To help you prepare for your Technical Test and Interview, we created an outline
 We grouped the learning material for both Java and C++ into four knowledge domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).
 
 ## What to Prepare
-Based on your choice and preference, you will be selected for either an OOP or an Algorithm based technical interview.
+After an internal evaluation, you will be selected for either an OOP or an Algorithm based technical interview.
 
 The OOP-based interview will include questions from the following knowledge domains: 
 1. Language Basics
@@ -86,6 +88,15 @@ On the other hand, an Algorithm based interview will consist of questions from t
 3. Algorithms
 
 Based on that, we advise you to focus on the sections corresponding to your interview type.
+
+This is how to best use these resources to your advantage during the Technical Test and the Technical Interview, so please take the time to follow the below steps before applying:
+
+1. Select a programming language (C++ or Java) that you want to use for your technical evaluations
+2. Navigate to the outline of the required material corresponding to the programming language that you selected
+3. Make sure to study all the topics in the outline from resources that you can find (websites, books, etc...)
+4. Some websites are provided for you where you can start looking for this material
+5. Make sure to practice as much as possible by reviewing the theoretical concepts and also by solving coding exercises
+6. Once you are done with the above and once you are satisfied that you can solve coding questions at a good pace, then you can apply to sit for the technical test and the technical interview
 
 ## Learning Content
 
