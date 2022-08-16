@@ -526,6 +526,8 @@
 
 ## Resources:
 
+The below resources are only meant to help you start researching to find the material that would cover the required topics.  They are not meant to be a comprehensive source of learning material.
+
 - [LearnCPP](https://www.learncpp.com/)
 - [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
