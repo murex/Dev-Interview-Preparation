@@ -471,6 +471,8 @@
 
 ## Resources:
 
+The below resources are only meant to help you start researching to find the material that would cover the required topics.  They are not meant to be a comprehensive source of learning material.
+
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [TutorialsPoint](https://www.tutorialspoint.com/java/index.htm)
 - [JavaPoint](https://www.javatpoint.com/java-tutorial)
