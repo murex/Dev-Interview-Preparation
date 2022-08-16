@@ -1,4 +1,4 @@
-# Learning Content for the Java Interview
+# Learning Content for the C++ Interview
 
 ## Knowledge Domains
 
