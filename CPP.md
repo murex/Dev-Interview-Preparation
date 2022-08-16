@@ -528,7 +528,7 @@
 
 - [LearnCPP](https://www.learncpp.com/)
 - [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
-- [GeeksForGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
-- [GeeksForGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
-- [GeeksForGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+- [GeeksforGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+- [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [LeetCode](https://leetcode.com/) 
