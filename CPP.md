@@ -527,5 +527,8 @@
 ## Resources:
 
 - [LearnCPP](https://www.learncpp.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/c-plus-plus/?ref=shm)
+- [GeeksforGeeks - C++](https://www.geeksforgeeks.org/c-plus-plus/)
+- [GeeksForGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
+- [GeeksForGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
+- [GeeksForGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
 - [LeetCode](https://leetcode.com/) 
