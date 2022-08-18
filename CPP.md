@@ -150,7 +150,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=25>II. Data Structures</td>
+  <td rowspan=26>II. Data Structures</td>
   <td rowspan=2>1. Array</td>
   <td>1. std::vector</td>
  </tr>
