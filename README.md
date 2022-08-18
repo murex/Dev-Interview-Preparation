@@ -30,7 +30,7 @@ Below are some pieces of advice we would like you to consider while updating you
 
 Ensure that your CV is concise, and still reflects all information that might be valuable and relevant for the role you are applying for
 Make sure it is aligned with the opportunity you are applying for
-List the projects you have worked on during your studies / end of year project / internships / professional experience
+List the projects you have worked on during your studies, end of year project, internships, or professional experience
 
 ## 4. Technical Test
 
@@ -75,6 +75,9 @@ To help you prepare for your Technical Test and Interview, we created an outline
 We grouped the learning material for both Java and C++ into four knowledge domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).
 
 ## What to Prepare
+
+The technical test will require knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).  However, it is possible to skip the advanced coding problem in the technical test in any one of the two domains: Object-Oriented Programming and Algorithms.
+
 After an internal evaluation, you will be selected for either an OOP or an Algorithm based technical interview.
 
 The OOP-based interview will include questions from the following knowledge domains: 
