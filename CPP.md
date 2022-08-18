@@ -160,6 +160,7 @@
  <tr>
   <td>2. List</td>
   <td>1. std::list</td>
+  <td>2. std::forward_list</td>
  </tr>
  <tr>
   <td>3. Set</td>
