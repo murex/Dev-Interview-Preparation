@@ -160,6 +160,9 @@
  <tr>
   <td>2. List</td>
   <td>1. std::list</td>
+ </tr>
+ <tr>
+  <td></td>
   <td>2. std::forward_list</td>
  </tr>
  <tr>
