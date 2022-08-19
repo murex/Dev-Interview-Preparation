@@ -6,7 +6,9 @@ Your step-by-step guide to preparing and applying for a Development role at Mure
 
 The Murex hiring process for any "Development" role consists of the following steps:
 
-## 1. Prepare for your Hiring Process
+![Murex Beirut DEV Hiring Process](/Murex_Beirut_DEV_Hiring_Process.png)
+
+## 1. Preparation
 
 We highly encourage you to go through the resources and materials shared in the "_**Getting Yourself Ready**_" section before you apply to Murex.
 
