@@ -79,23 +79,32 @@ We grouped the learning material for both Java and C++ into four knowledge domai
 
 ## What to Prepare
 
-The technical test will require knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).  However, it is possible to skip the advanced coding problem in the technical test in any one of the two domains: Object-Oriented Programming and Algorithms.
+### Hackerrank Technical Test
 
-After an internal evaluation, you will be selected for either an OOP or an Algorithm based technical interview.
+
+The technical test requires knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming,
+and Algorithms). However, it is possible to skip the **_advanced_** coding problem in the technical test in
+any of the two domains: Object-Oriented Programming and Algorithms.
+
+To secure higher chances of success, we advise you first to tackle the questions corresponding to your preferred programming domain.
+
+### Live Technical Interview 
+
+After an internal evaluation of your test result, you will be selected for either an OOP or an Algorithm based technical interview.
 
 The OOP-based interview will include questions from the following knowledge domains: 
 1. Language Basics
 2. Data Structures
 3. Object-Oriented Programming
 
-On the other hand, an Algorithm based interview will consist of questions from the following knowledge domains: 
+On the other hand, the Algorithm based interview will consist of questions from the following knowledge domains: 
 1. Language Basics
 2. Data Structures
 3. Algorithms
 
-Based on that, we advise you to focus on the sections corresponding to your interview type.
+### Resources 
 
-These resources are a great way to prepare for the technical test and technical interview.
+These resources are a great way to prepare for the technical test and the technical interview.
 
 We highly recommend taking the time to review them before applying.
 
@@ -103,9 +112,9 @@ Here are a few steps to help before you start:
 
 1. Select a programming language (C++ or Java) that you want to use for your technical evaluations
 2. Navigate to the outline of the required material corresponding to the programming language you selected
-3. Make sure to study all the topics in the outline from resources that you can find (websites, books, etc...)
-4. Some websites are provided for you where you can start looking for this material.  Practice as much as possible by reviewing the theoretical concepts and by solving coding exercises.
-5. Once you are done with the above, and once you are satisfied that you can solve coding questions at a good pace, you can apply to sit for the technical test and the technical interview.
+3. Study all the topics in the outline from resources you can find (websites, books, etc...)
+4. Some websites are provided for you where you can start looking for this material. Practice as much as possible by reviewing the theoretical concepts and solving coding exercises.
+5. Once done with the above and satisfied that you can solve coding questions at a good pace, you can apply to sit for the technical test and the technical interview.
 
 ## Learning Content
 
