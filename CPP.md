@@ -13,7 +13,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=40>I. Language Basics</td>
+  <td rowspan=41>I. Language Basics</td>
   <td>1. C++ Evolution</td>
   <td>&nbsp;</td>
  </tr>
@@ -133,6 +133,10 @@
  </tr>
  <tr>
   <td>16. Namespaces</td>
+    <td></td>
+ </tr>
+ <tr>
+  <td>17. Smart Pointers</td>
     <td></td>
  </tr>
 </table>
