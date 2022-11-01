@@ -2,7 +2,8 @@
 
 ## Knowledge Domains
 
-### I. Language Basics 
+### I. Language Basics
+
 <details>
 <summary>Click to expand the learning outline for Language Basics</summary>
 <table>
@@ -144,7 +145,8 @@
 </table>
 </details>
 
-### II. Data Structures 
+### II. Data Structures
+
 <details>
 <summary>Click to expand the learning outline for Data Structures</summary>
 
@@ -235,7 +237,8 @@
 
 </details>
 
-### III. Object-Oriented Programming 
+### III. Object-Oriented Programming
+
 <details>
 <summary>Click to expand the learning outline for Object-Oriented Programming</summary>
 
@@ -363,6 +366,7 @@
 </details>
 
 ### IV. Algorithms
+
 <details>
 <summary>Click to expand the learning outline for Algorithms</summary>
 
@@ -471,7 +475,8 @@
 
 ## Resources:
 
-The below resources are only meant to help you start researching to find the material that would cover the required topics.  They are not meant to be a comprehensive source of learning material.
+The below resources are only meant to help you start researching to find the material that would cover the required
+topics. They are not meant to be a comprehensive source of learning material.
 
 - [The Java Tutorials](https://docs.oracle.com/javase/tutorial/)
 - [TutorialsPoint](https://www.tutorialspoint.com/java/index.htm)
@@ -480,4 +485,15 @@ The below resources are only meant to help you start researching to find the mat
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 - [GeeksforGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 - [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- [LeetCode](https://leetcode.com/) 
+- [LeetCode](https://leetcode.com/)
+
+### Sample Exercises
+
+| Knowledge Domain                     | Exercise                                                                                                                                                                                                                                                                                                                                                                                           |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Language Basics                      | 1. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) <br/> 2. [Funny String](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true)                                                                                                                                                                                        |
+| Data Structures                      | 1. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true)<br/> 2. [Insert A Node At A Specific Position In A LinkedList](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true)<br/> 3. [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true) |
+| Object Oriented Programming - Easy   ||
+| Object Oriented Programming - Medium ||
+| Algorithms - Easy                    | 1. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)<br/> 2. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)                                                                                                                                                                       |
+| Algorithms - Medium                  | 1. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)<br/> 2. [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?isFullScreen=true)                                                                                                                                                                       |
