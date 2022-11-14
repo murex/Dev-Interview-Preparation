@@ -534,7 +534,7 @@
 
 ## Resources:
 
-### Online Learning Material
+### I. Online Learning Material
 
 The below resources are only meant to help you start researching to find the material that would cover the required topics.  They are not meant to be a comprehensive source of learning material.
 
@@ -544,7 +544,7 @@ The below resources are only meant to help you start researching to find the mat
 - [GeeksforGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/)
 - [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/) 
 
-### Sample Exercises
+### II. Sample Exercises
 
 We assembled the below list of exercises as a sample to help you prepare for the Hackerrank test.
 We advise you to start with this list and then solve other exercises from similar categories based on your need.
