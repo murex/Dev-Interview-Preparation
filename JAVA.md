@@ -473,7 +473,9 @@
 </table>
 </details>
 
-## Resources:
+## Resources
+
+### Online Learning Material  
 
 The below resources are only meant to help you start researching to find the material that would cover the required
 topics. They are not meant to be a comprehensive source of learning material.
@@ -485,15 +487,34 @@ topics. They are not meant to be a comprehensive source of learning material.
 - [GeeksforGeeks - Data Structures](https://www.geeksforgeeks.org/data-structures/)
 - [GeeksforGeeks - OOP](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/)
 - [GeeksforGeeks - Algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
-- [LeetCode](https://leetcode.com/)
 
 ### Sample Exercises
 
-| Knowledge Domain                     | Exercise                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Language Basics                      | 1. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) <br/> 2. [Funny String](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true)<br/> 3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)                                                                                                                                                                                           |
-| Data Structures                      | 1. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true)<br/> 2. [Insert A Node At A Specific Position In A LinkedList](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true)<br/> 3. [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true) <br/> 4. [Remove Element](https://leetcode.com/problems/remove-element/)                 |
-| Object Oriented Programming - Easy   | 1. [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true)<br/> 2. [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true)                                                                                                                                                                                                                                                       |
-| Object Oriented Programming - Medium | 1. [Design Twitter](https://leetcode.com/problems/design-twitter/) <br/> 2. [Design Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) <br/> 3. [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/)                                                                                                                                                                                                                        |
-| Algorithms - Easy                    | 1. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)<br/> 2. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)<br/> 3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                                                                                                                                  |
-| Algorithms - Medium                  | 1. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)<br/> 2. [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?isFullScreen=true)<br/> 3. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) <br/> 4. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)<br/> 5. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |
+We assembled the below list of exercises as a sample to help you prepare for the Hackerrank test. 
+We advise you to start with this list and then solve other exercises from similar categories based on your need.
+
+1. **Language Basics**: 
+   1. [Strong Password](https://www.hackerrank.com/challenges/strong-password/problem?isFullScreen=true) 
+   2. [Funny String](https://www.hackerrank.com/challenges/funny-string/problem?isFullScreen=true)
+   3. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+2. **Data Structures**:
+   1. [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true) 
+   2. [Insert A Node At A Specific Position In A LinkedList](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true)
+   3. [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks/problem?isFullScreen=true) 
+   4. [Remove Element](https://leetcode.com/problems/remove-element/)
+3. **Object-Oriented Programming - Easy**:
+   1. [Java Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true)
+   2. [Java Method Overriding](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true)
+4. **Object-Oriented Programming - Medium**:
+   1. [Design Twitter](https://leetcode.com/problems/design-twitter/) 
+   2. [Design Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/) 
+   3. [Design Movie Rental System](https://leetcode.com/problems/design-movie-rental-system/)
+5. **Algorithms - Easy:**
+   1. [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem?isFullScreen=true)
+   2. [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)
+   3. [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+6. **Algorithms - Medium:**
+   1. [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets/problem?isFullScreen=true)
+   2. [Self Balancing Tree](https://www.hackerrank.com/challenges/self-balancing-tree/problem?isFullScreen=true)
+   3. [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
+   4. [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/)
