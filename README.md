@@ -83,8 +83,7 @@ We grouped the learning material for both Java and C++ into four knowledge domai
 
 
 The technical test requires knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming,
-and Algorithms). However, it is possible to skip the **_advanced_** coding problem in the technical test in
-any of the two domains: Object-Oriented Programming and Algorithms.
+and Algorithms). While the following may not be a necessity to pass the test, it is recommended to try to attempt to solve all the questions in the test to show your skills in all knowledge domains.
 
 To secure higher chances of success, we advise you first to tackle the questions corresponding to your preferred programming domain.
 
