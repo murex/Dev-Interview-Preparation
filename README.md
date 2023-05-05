@@ -91,12 +91,12 @@ To secure higher chances of success, we advise you first to tackle the questions
 
 After an internal evaluation of your test result, you will be selected for either an OOP or an Algorithm based technical interview.
 
-The OOP-based interview will include questions from the following knowledge domains: 
+The OOP-based interview will include design and development questions from the following knowledge domains: 
 1. Language Basics
 2. Data Structures
 3. Object-Oriented Programming
 
-On the other hand, the Algorithm based interview will consist of questions from the following knowledge domains: 
+On the other hand, the Algorithm based interview will consist of design and development questions from the following knowledge domains: 
 1. Language Basics
 2. Data Structures
 3. Algorithms
