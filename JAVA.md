@@ -249,7 +249,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=36>III. Object-Oriented Programming</td>
+  <td rowspan=35>III. Object-Oriented Programming</td>
   <td rowspan=15>1. Class &amp;Object</td>
   <td>1. What are Classes and Objects?</td>
  </tr>
@@ -341,7 +341,7 @@
   <td>5. Multiple Inheritance</td>
  </tr>
  <tr>
-  <td rowspan=7>5. Further OOP Principles</td>
+  <td rowspan=6>5. Further OOP Principles</td>
   <td>1. Composition</td>
  </tr>
  <tr>
@@ -357,10 +357,7 @@
   <td>5. Encapsulation</td>
  </tr>
  <tr>
-  <td>6. Single Responsibility Principle</td>
- </tr>
- <tr>
-  <td>7. Open/Closed Principle</td>
+  <td>6. SOLID Principles</td>
  </tr>
 </table>
 </details>

@@ -273,7 +273,7 @@
   <td style="font-weight: bold; font-size: medium">Sub Topics</td>
  </tr>
  <tr>
-  <td rowspan=48>III. OOP</td>
+  <td rowspan=47>III. OOP</td>
   <td rowspan=18>1. Classes and Objects</td>
   <td>1. What are Classes and Objects/Structs?</td>
  </tr>
@@ -402,7 +402,7 @@
   <td>2. When is it used?</td>
  </tr>
  <tr>
-  <td rowspan=7>6. Further OOP Principles</td>
+  <td rowspan=6>6. Further OOP Principles</td>
   <td>1. Composition</td>
  </tr>
  <tr>
@@ -418,10 +418,7 @@
   <td>5. Encapsulation</td>
  </tr>
  <tr>
-  <td>6. Single Responsibility Principle</td>
- </tr>
- <tr>
-  <td>7. Open/Closed Principle</td>
+  <td>6. SOLID Principles</td>
  </tr>
 </table>
 </details>
