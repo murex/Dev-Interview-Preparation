@@ -41,6 +41,8 @@ Once your application is screened, the Talent Acquisition team will contact you 
 
 The test can be scheduled between two days and two weeks after the call.  A link to the test will be shared via email.  
 
+The test is tailored to your profile — each profile (Java Developer, C++ Developer, Frontend Developer, Data Engineer, Full Stack Developer) has its own dedicated test covering the topics most relevant to that role.
+
 Before you start your test, make sure that you read the "_**Getting Yourself Ready**_" section.
 
 ## 5. HR Interview
@@ -75,17 +77,23 @@ Feel free to ask all relevant questions related to the role and job requirements
 
 To help you prepare for your Technical Test and Interview, we created an outline of learning material for you to explore.
 
-We grouped the learning material for both Java and C++ into four knowledge domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).
+Depending on your profile, the material is grouped into the relevant knowledge domains for that role.
 
 ## What to Prepare
 
 ### Hackerrank Technical Test
 
+The technical test is tailored to your profile and covers the topics most relevant to the role you applied for:
 
-The technical test requires knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming,
-and Algorithms). While the following may not be a necessity to pass the test, it is recommended to try to attempt to solve all the questions in the test to show your skills in all knowledge domains.
+| Profile | Topics Covered |
+|---|---|
+| Java Developer | Java Basics, SQL Basics, OOP Advanced |
+| C++ Developer | C++ Basics, Algorithms Basics, OOP Advanced |
+| Frontend Developer | JavaScript Basics, CSS, Angular Intermediate |
+| Data Engineer | SQL Basics, Java Basics, SQL Intermediate |
+| Full Stack Developer | JavaScript Basics, Docker Basics, Angular Intermediate |
 
-To secure higher chances of success, we advise you first to tackle the questions corresponding to your preferred programming domain.
+To secure higher chances of success, we advise you first to tackle the questions corresponding to your strongest area.
 
 ### Live Technical Interview 
 
@@ -109,15 +117,14 @@ We highly recommend taking the time to review them before applying.
 
 Here are a few steps to help before you start:
 
-1. Select a programming language (C++ or Java) that you want to use for your technical evaluations
-2. Navigate to the outline of the required material corresponding to the programming language you selected
+1. Identify the profile you are applying for
+2. Navigate to the learning content corresponding to your profile
 3. Study all the topics in the outline from resources you can find (websites, books, etc...)
 4. Some websites are provided for you where you can start looking for this material. Practice as much as possible by reviewing the theoretical concepts and solving coding exercises.
 5. Once done with the above and satisfied that you can solve coding questions at a good pace, you can apply to sit for the technical test and the technical interview.
 
 ## Learning Content
 
-1. [Java Learning Content](./JAVA.md)
-2. [C++ Learning Content](./CPP.md)
-
+1. [Java Learning Content](./JAVA.md) — Java Developer, Data Engineer
+2. [C++ Learning Content](./CPP.md) — C++ Developer
 
