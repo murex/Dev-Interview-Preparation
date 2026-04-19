@@ -83,15 +83,18 @@ Depending on your profile, the material is grouped into the relevant knowledge d
 
 ### Hackerrank Technical Test
 
-The technical test is tailored to your profile and covers the topics most relevant to the role you applied for:
+The technical test is tailored to your profile and covers the topics most relevant to the role you applied for.
 
-| Profile | Topics Covered |
-|---|---|
-| Java Developer | Java Basics, SQL Basics, OOP Advanced |
-| C++ Developer | C++ Basics, Algorithms Basics, OOP Advanced |
-| Frontend Developer | JavaScript Basics, CSS, Angular Intermediate |
-| Data Engineer | SQL Basics, Java Basics, SQL Intermediate |
-| Full Stack Developer | JavaScript Basics, Docker Basics, Angular Intermediate |
+- **Duration:** 90 minutes
+- **Structure:** 3 sections — one MCQ section followed by two Coding sections
+
+| Profile | Section 1 (MCQ) | Section 2 (Coding) | Section 3 (Coding) |
+|---|---|---|---|
+| Java Developer | Java Basics (10 mins) | SQL Basics (20 mins) | OOP Advanced (60 mins) |
+| C++ Developer | C++ Basics (20 mins) | Algorithms Basics (30 mins) | OOP Advanced (40 mins) |
+| Frontend Developer | JavaScript Basics (20 mins) | CSS (30 mins) | Angular Intermediate (40 mins) |
+| Data Engineer | SQL Basics (10 mins) | Java Basics (30 mins) | SQL Intermediate (50 mins) |
+| Full Stack Developer | JavaScript Basics (10 mins) | Docker Basics (30 mins) | Angular Intermediate (50 mins) |
 
 To secure higher chances of success, we advise you first to tackle the questions corresponding to your strongest area.
 
