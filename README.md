@@ -1,123 +1,147 @@
-# Preparation for the Murex Dev Hiring Process
+# Preparing for the Murex Development Hiring Process
 
-Your step-by-step guide to preparing and applying for a Development role at Murex Beirut.
+Your step-by-step guide to preparing and applying for a Development role at Murex.
 
-# Our Hiring Process 
+## Our Hiring Process
 
-The Murex hiring process for any "Development" role consists of the following steps:
+The Murex hiring process for all Development roles consists of the following steps:
 
-![Murex Beirut DEV Hiring Process](/Murex_Beirut_DEV_Hiring_Process.png)
+![Murex Development Hiring Process](/Murex_DEV_Hiring_Process.png)
 
-## 1. Preparation
+_\* Applies to permanent positions only._
 
-We highly encourage you to go through the resources and materials shared in the "_**Getting Yourself Ready**_" section before you apply to Murex.
+### 1. Preparation
 
-These resources will help you prepare for the different technical topics that you will be assessed on when you sit for our technical test or meet our experts.
+We strongly encourage you to review the resources in the [Preparing for Your Assessments](#preparing-for-your-assessments) section before you apply.
 
+These resources will help you prepare for the technical topics you will be assessed on during the technical test and interviews.
 
-## 2. Online Application
+### 2. Online Application
 
-Search our [career portal](https://careers.murex.com/search/?q=&q2=&alertId=&title=&location=Beirut&shifttype=) and find the right development opportunity for you. 
+Search our [career portal](https://careers.murex.com/search/?q=&q2=&alertId=&title=&shifttype=) to find the Development opportunity that suits you.
 
-Click apply and start your hiring process by creating your candidate profile and submitting an updated CV.
+Click **Apply** to create your candidate profile and submit an up-to-date CV.
 
-Once your application has been submitted, it will be reviewed by our team within 1 week.
+Our team will review your application within one week of submission. We recommend completing your preparation before the Talent Acquisition team contacts you.
 
-So make sure you're well prepared before the Talent Acquisition team contacts you.
+### 3. Application Screening
 
-## 3. Application Screening
+The Talent Acquisition team will review your application to ensure that your profile (educational background and experience) aligns with the requirements of the role you applied for.
 
-After submitting your online application, the Talent Acquisition team will thoroughly review it to ensure that your profile (educational background and experience) matches the job requirements you have applied to.
+A few tips for updating your CV:
 
-Below are a few tips to help you update your CV:
+1. Keep it concise while highlighting the information most relevant to the role.
+2. Tailor it to the opportunity you are applying for.
+3. List the projects you have worked on during your studies, final-year project, internships, or professional experience.
 
-1. Ensure your CV is concise, and still reflects all information that might be valuable and relevant for the role you are applying for
-2. Make sure it's aligned with the opportunity you are applying for
-3. List the projects you have worked on during your studies, final year project, internships, or professional experience
+### 4. Technical Test
 
-## 4. Technical Test
+Once your application has been screened, the Talent Acquisition team will contact you to schedule your online technical test.
 
-Once your application is screened, the Talent Acquisition team will contact you to schedule a specific date for the online technical test.
+The test can be scheduled between two days and two weeks after this call. A link to the test will be sent to you by email.
 
-The test can be scheduled between two days and two weeks after the call.  A link to the test will be shared via email.  
+The test is tailored to your profile: each profile (Java Developer or C++ Developer) has a dedicated test covering the topics most relevant to that role.
 
-Before you start your test, make sure that you read the "_**Getting Yourself Ready**_" section.
+Before taking the test, we recommend reviewing the [Preparing for Your Assessments](#preparing-for-your-assessments) section.
 
-## 5. HR Interview
+### 5. HR Interview
 
-Next, you will be invited for a one-hour interview with the Talent Acquisition team.  
+Next, you will be invited to a one-hour interview with the Talent Acquisition team.
 
-This is our chance to get to know you better and assess your qualifications for the role.
+This is our opportunity to get to know you better and assess your fit for the role.
 
-To prepare for this part of the process, we encourage you to:
+To prepare for this interview, we encourage you to:
 
-1. Research the company well and understand what we do
-2. Get ready to share examples that demonstrate your communication skills, teamwork capabilities, and other soft skills relative to the role
-3. Be yourself in the meeting, clear and specific when sharing your examples and past experiences
+1. Research the company and understand what we do.
+2. Prepare examples that demonstrate your communication skills, teamwork, and other soft skills relevant to the role.
+3. Be yourself, and be clear and specific when describing your experience.
 
-## 6. Technical Interview
+### 6. Technical Interview
 
-Once you go through the HR interview, you will be invited for a two-hour technical interview.
+After the HR interview, you will be invited to a two-hour technical interview with two engineers from our Development department.
 
-You will meet with two experts from the DEV department to learn more about your technical skills. They will ask you some technical questions to better assess your coding skills and knowledge and better understand your reasoning thinking. Being able to show your reasoning skills is as important as giving the right answer!
+They will ask technical and coding questions to assess your knowledge and understand how you approach problems. Explaining your reasoning is as important as reaching the correct answer.
 
-Make sure that you read the "_**Getting Yourself Ready**_" section before this step.
+Before this interview, we recommend reviewing the [Preparing for Your Assessments](#preparing-for-your-assessments) section.
 
-## 7. Matching Interview
+### 7. Matching Interview\*
 
-This is the last step in our hiring process before you reach the offer stage.
+_\* Applies to permanent positions only._
 
-A meeting will be scheduled with a potential team looking for someone with your skills to join them.
+This is the final step of our hiring process before the offer stage.
 
-Feel free to ask all relevant questions related to the role and job requirements.
+You will meet with a team looking for someone with your skills to join them.
 
-# Getting Yourself Ready
+We encourage you to ask questions about the role, the team, and its work.
 
-To help you prepare for your Technical Test and Interview, we created an outline of learning material for you to explore.
+## Preparing for Your Assessments
 
-We grouped the learning material for both Java and C++ into four knowledge domains (Language Basics, Data Structures, Object-Oriented Programming, and Algorithms).
+To help you prepare for the technical test and interviews, we have put together an outline of learning material.
 
-## What to Prepare
+The material is grouped by the knowledge domains relevant to each profile.
 
-### Hackerrank Technical Test
+### What to Prepare
 
+#### HackerRank Technical Test
 
-The technical test requires knowledge of the 4 domains (Language Basics, Data Structures, Object-Oriented Programming,
-and Algorithms). While the following may not be a necessity to pass the test, it is recommended to try to attempt to solve all the questions in the test to show your skills in all knowledge domains.
+You will receive the technical test corresponding to the role you applied for, either Java or C++.
 
-To secure higher chances of success, we advise you first to tackle the questions corresponding to your preferred programming domain.
+- **Duration:** 90 minutes
+- **Structure:** Multiple Choice (MCQ) and Coding sections, as detailed below
 
-### Live Technical Interview 
+**Java Developer** (4 sections)
 
-After an internal evaluation of your test result, you will be selected for either an OOP or an Algorithm based technical interview.
+| Section | Topic | Type | Recommended Time |
+|---|---|---|---|
+| 1 | Java Basics | MCQ | 5 mins |
+| 2 | SQL Basics | Coding | 15 mins |
+| 3 | Problem Solving Intermediate | Coding | 20 mins |
+| 4 | OOP Advanced | Coding | 50 mins |
 
-The OOP-based interview will include design and development questions from the following knowledge domains: 
+**C++ Developer** (6 sections)
+
+| Section | Topic | Type | Recommended Time |
+|---|---|---|---|
+| 1 | C++ Knowledge Easy | MCQ | 5 mins |
+| 2 | C++ Knowledge Medium | MCQ | 5 mins |
+| 3 | C++ Knowledge Advanced | MCQ | 5 mins |
+| 4 | Understanding C++ Program | MCQ | 5 mins |
+| 5 | C++ Intermediate | Coding | 30 mins |
+| 6 | Problem Solving | Coding | 40 mins |
+
+To maximize your score, we recommend starting with the section that matches your strongest area.
+
+#### Live Technical Interview
+
+Based on your test results, you will be selected for either an OOP-based or an Algorithm-based technical interview.
+
+The OOP-based interview covers design and development questions from the following knowledge domains:
+
 1. Language Basics
 2. Data Structures
 3. Object-Oriented Programming
 
-On the other hand, the Algorithm based interview will consist of design and development questions from the following knowledge domains: 
+The Algorithm-based interview covers design and development questions from the following knowledge domains:
+
 1. Language Basics
 2. Data Structures
 3. Algorithms
 
-### Resources 
 
-These resources are a great way to prepare for the technical test and the technical interview.
+### Resources
 
-We highly recommend taking the time to review them before applying.
+These resources are a great way to prepare for the technical test and the technical interview. We strongly recommend reviewing them before applying.
 
-Here are a few steps to help before you start:
+To get started:
 
-1. Select a programming language (C++ or Java) that you want to use for your technical evaluations
-2. Navigate to the outline of the required material corresponding to the programming language you selected
-3. Study all the topics in the outline from resources you can find (websites, books, etc...)
-4. Some websites are provided for you where you can start looking for this material. Practice as much as possible by reviewing the theoretical concepts and solving coding exercises.
-5. Once done with the above and satisfied that you can solve coding questions at a good pace, you can apply to sit for the technical test and the technical interview.
+1. Identify the profile you are applying for.
+2. Open the learning content for your profile.
+3. Study all the topics in the outline using the resources available to you (websites, books, etc.).
+4. Use the recommended websites listed at the end of each learning content page as a starting point. Practice as much as possible by reviewing the theory and solving coding exercises.
+5. Once you are comfortable solving coding questions at a good pace, you are ready to submit your application.
 
 ## Learning Content
 
-1. [Java Learning Content](./JAVA.md)
-2. [C++ Learning Content](./CPP.md)
-
+1. [Java Learning Content](./JAVA.md) — Java Developer, Data Engineer
+2. [C++ Learning Content](./CPP.md) — C++ Developer
 
