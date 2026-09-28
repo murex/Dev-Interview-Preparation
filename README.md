@@ -87,12 +87,27 @@ The material is grouped by the knowledge domains relevant to each profile.
 You will receive the technical test corresponding to the role you applied for, either Java or C++.
 
 - **Duration:** 90 minutes
-- **Structure:** 4 sections combining Multiple Choice (MCQ) and Coding questions, as detailed below (recommended time per section in parentheses)
+- **Structure:** Multiple Choice (MCQ) and Coding sections, as detailed below
 
-| Profile | Section 1 | Section 2 | Section 3 | Section 4 |
-|---|---|---|---|---|
-| Java Developer | Java Basics — MCQ (5 mins) | SQL Basics — Coding (15 mins) | Problem Solving Intermediate — Coding (20 mins) | OOP Advanced — Coding (50 mins) |
-| C++ Developer | C++ Knowledge — MCQ (20 mins) | Understanding C++ Code — MCQ (5 mins) | OOP Advanced — Coding (30 mins) | Problem Solving Intermediate — Coding (35 mins) |
+**Java Developer** (4 sections)
+
+| Section | Topic | Type | Recommended Time |
+|---|---|---|---|
+| 1 | Java Basics | MCQ | 5 mins |
+| 2 | SQL Basics | Coding | 15 mins |
+| 3 | Problem Solving Intermediate | Coding | 20 mins |
+| 4 | OOP Advanced | Coding | 50 mins |
+
+**C++ Developer** (6 sections)
+
+| Section | Topic | Type | Recommended Time |
+|---|---|---|---|
+| 1 | C++ Knowledge Easy | MCQ | 5 mins |
+| 2 | C++ Knowledge Medium | MCQ | 5 mins |
+| 3 | C++ Knowledge Advanced | MCQ | 5 mins |
+| 4 | Understanding C++ Program | MCQ | 5 mins |
+| 5 | C++ Intermediate | Coding | 30 mins |
+| 6 | Problem Solving | Coding | 40 mins |
 
 To maximize your score, we recommend starting with the section that matches your strongest area.
 
