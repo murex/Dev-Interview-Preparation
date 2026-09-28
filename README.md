@@ -1,87 +1,86 @@
-# Preparation for the Murex Dev Hiring Process
+# Preparing for the Murex Development Hiring Process
 
-Your step-by-step guide to preparing and applying for a Development role at Murex Beirut.
+Your step-by-step guide to preparing and applying for a Development role at Murex.
 
-# Our Hiring Process 
+## Our Hiring Process
 
-The Murex hiring process for any "Development" role consists of the following steps:
+The Murex hiring process for all Development roles consists of the following steps:
 
-![Murex Beirut DEV Hiring Process](/Murex_Beirut_DEV_Hiring_Process.png)
+![Murex Development Hiring Process](/Murex_DEV_Hiring_Process.png)
 
-## 1. Preparation
+_\* Applies to permanent positions only._
 
-We highly encourage you to go through the resources and materials shared in the "_**Getting Yourself Ready**_" section before you apply to Murex.
+### 1. Preparation
 
-These resources will help you prepare for the different technical topics that you will be assessed on when you sit for our technical test or meet our experts.
+We strongly encourage you to review the resources in the [Preparing for Your Assessments](#preparing-for-your-assessments) section before you apply.
 
+These resources will help you prepare for the technical topics you will be assessed on during the technical test and interviews.
 
-## 2. Online Application
+### 2. Online Application
 
-Search our [career portal](https://careers.murex.com/search/?q=&q2=&alertId=&title=&location=Beirut&shifttype=) and find the right development opportunity for you. 
+Search our [career portal](https://careers.murex.com/search/?q=&q2=&alertId=&title=&shifttype=) to find the Development opportunity that suits you.
 
-Click apply and start your hiring process by creating your candidate profile and submitting an updated CV.
+Click **Apply** to create your candidate profile and submit an up-to-date CV.
 
-Once your application has been submitted, it will be reviewed by our team within 1 week.
+Our team will review your application within one week of submission. We recommend completing your preparation before the Talent Acquisition team contacts you.
 
-So make sure you're well prepared before the Talent Acquisition team contacts you.
+### 3. Application Screening
 
-## 3. Application Screening
+The Talent Acquisition team will review your application to ensure that your profile (educational background and experience) aligns with the requirements of the role you applied for.
 
-After submitting your online application, the Talent Acquisition team will thoroughly review it to ensure that your profile (educational background and experience) matches the job requirements you have applied to.
+A few tips for updating your CV:
 
-Below are a few tips to help you update your CV:
+1. Keep it concise while highlighting the information most relevant to the role.
+2. Tailor it to the opportunity you are applying for.
+3. List the projects you have worked on during your studies, final-year project, internships, or professional experience.
 
-1. Ensure your CV is concise, and still reflects all information that might be valuable and relevant for the role you are applying for
-2. Make sure it's aligned with the opportunity you are applying for
-3. List the projects you have worked on during your studies, final year project, internships, or professional experience
+### 4. Technical Test
 
-## 4. Technical Test
+Once your application has been screened, the Talent Acquisition team will contact you to schedule your online technical test.
 
-Once your application is screened, the Talent Acquisition team will contact you to schedule a specific date for the online technical test.
+The test can be scheduled between two days and two weeks after this call. A link to the test will be sent to you by email.
 
-The test can be scheduled between two days and two weeks after the call.  A link to the test will be shared via email.  
+The test is tailored to your profile: each profile (Java Developer, C++ Developer, Frontend Developer, Data Engineer, Full Stack Developer) has a dedicated test covering the topics most relevant to that role.
 
-The test is tailored to your profile — each profile (Java Developer, C++ Developer, Frontend Developer, Data Engineer, Full Stack Developer) has its own dedicated test covering the topics most relevant to that role.
+Before taking the test, we recommend reviewing the [Preparing for Your Assessments](#preparing-for-your-assessments) section.
 
-Before you start your test, make sure that you read the "_**Getting Yourself Ready**_" section.
+### 5. HR Interview
 
-## 5. HR Interview
+Next, you will be invited to a one-hour interview with the Talent Acquisition team.
 
-Next, you will be invited for a one-hour interview with the Talent Acquisition team.  
+This is our opportunity to get to know you better and assess your fit for the role.
 
-This is our chance to get to know you better and assess your qualifications for the role.
+To prepare for this interview, we encourage you to:
 
-To prepare for this part of the process, we encourage you to:
+1. Research the company and understand what we do.
+2. Prepare examples that demonstrate your communication skills, teamwork, and other soft skills relevant to the role.
+3. Be yourself, and be clear and specific when describing your experience.
 
-1. Research the company well and understand what we do
-2. Get ready to share examples that demonstrate your communication skills, teamwork capabilities, and other soft skills relative to the role
-3. Be yourself in the meeting, clear and specific when sharing your examples and past experiences
+### 6. Technical Interview
 
-## 6. Technical Interview
+After the HR interview, you will be invited to a two-hour technical interview with two engineers from our Development department.
 
-Once you go through the HR interview, you will be invited for a two-hour technical interview.
+They will ask technical and coding questions to assess your knowledge and understand how you approach problems. Explaining your reasoning is as important as reaching the correct answer.
 
-You will meet with two experts from the DEV department to learn more about your technical skills. They will ask you some technical questions to better assess your coding skills and knowledge and better understand your reasoning thinking. Being able to show your reasoning skills is as important as giving the right answer!
+Before this interview, we recommend reviewing the [Preparing for Your Assessments](#preparing-for-your-assessments) section.
 
-Make sure that you read the "_**Getting Yourself Ready**_" section before this step.
+### 7. Matching Interview
 
-## 7. Matching Interview
+This is the final step of our hiring process before the offer stage.
 
-This is the last step in our hiring process before you reach the offer stage.
+You will meet with a team looking for someone with your skills to join them.
 
-A meeting will be scheduled with a potential team looking for someone with your skills to join them.
+We encourage you to ask questions about the role, the team, and its work.
 
-Feel free to ask all relevant questions related to the role and job requirements.
+## Preparing for Your Assessments
 
-# Getting Yourself Ready
+To help you prepare for the technical test and interviews, we have put together an outline of learning material.
 
-To help you prepare for your Technical Test and Interview, we created an outline of learning material for you to explore.
+The material is grouped by the knowledge domains relevant to each profile.
 
-Depending on your profile, the material is grouped into the relevant knowledge domains for that role.
+### What to Prepare
 
-## What to Prepare
-
-### Hackerrank Technical Test
+#### HackerRank Technical Test
 
 The technical test is tailored to your profile and covers the topics most relevant to the role you applied for.
 
@@ -96,35 +95,37 @@ The technical test is tailored to your profile and covers the topics most releva
 | Data Engineer | SQL Basics (10 mins) | Java Basics (30 mins) | SQL Intermediate (50 mins) |
 | Full Stack Developer | JavaScript Basics (10 mins) | Docker Basics (30 mins) | Angular Intermediate (50 mins) |
 
-To secure higher chances of success, we advise you first to tackle the questions corresponding to your strongest area.
+To maximize your score, we recommend starting with the questions that match your strongest area.
 
-### Live Technical Interview 
+#### Live Technical Interview\*
 
-After an internal evaluation of your test result, you will be selected for either an OOP or an Algorithm based technical interview.
+Based on your test results, you will be selected for either an OOP-based or an Algorithm-based technical interview.
 
-The OOP-based interview will include design and development questions from the following knowledge domains: 
+The OOP-based interview covers design and development questions from the following knowledge domains:
+
 1. Language Basics
 2. Data Structures
 3. Object-Oriented Programming
 
-On the other hand, the Algorithm based interview will consist of design and development questions from the following knowledge domains: 
+The Algorithm-based interview covers design and development questions from the following knowledge domains:
+
 1. Language Basics
 2. Data Structures
 3. Algorithms
 
-### Resources 
+_\* Applies to permanent positions only._
 
-These resources are a great way to prepare for the technical test and the technical interview.
+### Resources
 
-We highly recommend taking the time to review them before applying.
+These resources are a great way to prepare for the technical test and the technical interview. We strongly recommend reviewing them before applying.
 
-Here are a few steps to help before you start:
+To get started:
 
-1. Identify the profile you are applying for
-2. Navigate to the learning content corresponding to your profile
-3. Study all the topics in the outline from resources you can find (websites, books, etc...)
-4. Some websites are provided for you where you can start looking for this material. Practice as much as possible by reviewing the theoretical concepts and solving coding exercises.
-5. Once done with the above and satisfied that you can solve coding questions at a good pace, you can apply to sit for the technical test and the technical interview.
+1. Identify the profile you are applying for.
+2. Open the learning content for your profile.
+3. Study all the topics in the outline using the resources available to you (websites, books, etc.).
+4. Use the recommended websites listed at the end of each learning content page as a starting point. Practice as much as possible by reviewing the theory and solving coding exercises.
+5. Once you are comfortable solving coding questions at a good pace, you are ready to submit your application.
 
 ## Learning Content
 
