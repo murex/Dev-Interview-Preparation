@@ -66,6 +66,8 @@ Before this interview, we recommend reviewing the [Preparing for Your Assessment
 
 ### 7. Matching Interview\*
 
+_\* Applies to permanent positions only._
+
 This is the final step of our hiring process before the offer stage.
 
 You will meet with a team looking for someone with your skills to join them.
@@ -82,7 +84,7 @@ The material is grouped by the knowledge domains relevant to each profile.
 
 #### HackerRank Technical Test
 
-The technical test is tailored to your profile and covers the topics most relevant to the role you applied for.
+You will receive the technical test corresponding to the role you applied for, either Java or C++.
 
 - **Duration:** 90 minutes
 - **Structure:** 4 sections combining Multiple Choice (MCQ) and Coding questions, as detailed below (recommended time per section in parentheses)
