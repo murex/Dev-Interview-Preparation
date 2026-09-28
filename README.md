@@ -78,8 +78,6 @@ To help you prepare for the technical test and interviews, we have put together 
 
 The material is grouped by the knowledge domains relevant to each profile.
 
-_\* Applies to permanent positions only._
-
 ### What to Prepare
 
 #### HackerRank Technical Test
