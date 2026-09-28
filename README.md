@@ -64,7 +64,7 @@ They will ask technical and coding questions to assess your knowledge and unders
 
 Before this interview, we recommend reviewing the [Preparing for Your Assessments](#preparing-for-your-assessments) section.
 
-### 7. Matching Interview
+### 7. Matching Interview\*
 
 This is the final step of our hiring process before the offer stage.
 
@@ -77,6 +77,8 @@ We encourage you to ask questions about the role, the team, and its work.
 To help you prepare for the technical test and interviews, we have put together an outline of learning material.
 
 The material is grouped by the knowledge domains relevant to each profile.
+
+_\* Applies to permanent positions only._
 
 ### What to Prepare
 
@@ -94,7 +96,7 @@ The technical test is tailored to your profile and covers the topics most releva
 
 To maximize your score, we recommend starting with the section that matches your strongest area.
 
-#### Live Technical Interview\*
+#### Live Technical Interview
 
 Based on your test results, you will be selected for either an OOP-based or an Algorithm-based technical interview.
 
@@ -110,7 +112,6 @@ The Algorithm-based interview covers design and development questions from the f
 2. Data Structures
 3. Algorithms
 
-_\* Applies to permanent positions only._
 
 ### Resources
 
