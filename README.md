@@ -80,19 +80,17 @@ To help you prepare for the technical test and interviews, we have put together 
 
 The material is grouped by the knowledge domains relevant to each profile.
 
-### What to Prepare
-
-#### HackerRank Technical Test
+### HackerRank Technical Test
 
 You will receive the technical test corresponding to the role you applied for, either Java or C++.
 
-##### Before the Test: 
+#### Before the Test: 
 - Make sure your Internet connection is stable.
 - Use a laptop or desktop with the latest version of Google Chrome, Mozilla Firefox, or Microsoft Edge. Safari and Internet Explorer are not supported.
 - Use a single monitor only. Multiple displays, extended screens, and screen mirroring are strictly prohibited.
 - Find a quiet place where you will not be interrupted.
 
-##### Test Structure:
+#### Test Structure:
 - **Duration:** 90 minutes
 - **Structure:** Multiple Choice (MCQ) and Coding sections, as detailed below
     - **Java Back-End Developer Test** (4 sections)
@@ -115,19 +113,19 @@ You will receive the technical test corresponding to the role you applied for, e
 - You may complete the sections in any order. We recommend starting with the one you feel most confident about.
 - To maximize your score, we recommend starting with the section that matches your strongest area.
 
-##### Tips for Coding Questions:
+#### Tips for Coding Questions:
 - Coding questions are scored by the number of test cases your solution passes. 
 - Run your code before submitting.
 - Submit your solution even if it is incomplete. Partial solutions still earn points.
 
-##### Rules: 
+#### Rules: 
 - **Work Independently**: Complete the test on your own, without help from anyone else.
 - **AI tools are prohibited**: Using ChatGPT, Copilot, or any other AI assistant is strictly prohibited.
 - **No external IDEs**: Write all your code in the HackerRank editor. Pasting code into the editor is monitored and is considered a breach of test integrity.
 - **Stay in the test window**: Switching tabs and leaving the test window are monitored. Leaving it too often may be flagged for review and affect your submission.
 - **Confidentiality**: The test content is confidential. Do not share, post, or discuss the questions or your answers.
 
-#### Live Technical Interview
+### Live Technical Interview
 
 Based on your test results, you will be selected for either an OOP-based or an Algorithm-based technical interview.
 
