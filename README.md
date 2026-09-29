@@ -86,30 +86,46 @@ The material is grouped by the knowledge domains relevant to each profile.
 
 You will receive the technical test corresponding to the role you applied for, either Java or C++.
 
+##### Before the Test: 
+- Make sure your Internet connection is stable.
+- Use a laptop or desktop with the latest version of Google Chrome, Mozilla Firefox, or Microsoft Edge. Safari and Internet Explorer are not supported.
+- Use a single monitor only. Multiple displays, extended screens, and screen mirroring are strictly prohibited.
+- Find a quiet place where you will not be interrupted.
+
+##### Test Structure:
 - **Duration:** 90 minutes
 - **Structure:** Multiple Choice (MCQ) and Coding sections, as detailed below
+    - **Java Back-End Developer Test** (4 sections)
+        | Section | Topic | Type | Recommended Time |
+        |---|---|---|---|
+        | 1 | Java Basics | MCQ | 5 mins |
+        | 2 | SQL Basics | Coding | 15 mins |
+        | 3 | Problem Solving Intermediate | Coding | 20 mins |
+        | 4 | OOP Advanced | Coding | 50 mins |
 
-**Java Developer** (4 sections)
+    - **C++ Developer Test** (6 sections)
+        | Section | Topic | Type | Recommended Time |
+        |---|---|---|---|
+        | 1 | C++ Knowledge Basics | MCQ | 5 mins |
+        | 2 | C++ Knowledge Intermediate | MCQ | 5 mins |
+        | 3 | C++ Knowledge Advanced | MCQ | 5 mins |
+        | 4 | Understanding C++ Program | MCQ | 5 mins |
+        | 5 | C++ Intermediate | Coding | 30 mins |
+        | 6 | Problem Solving Intermediate | Coding | 40 mins |
+- You may complete the sections in any order. We recommend starting with the one you feel most confident about.
+- To maximize your score, we recommend starting with the section that matches your strongest area.
 
-| Section | Topic | Type | Recommended Time |
-|---|---|---|---|
-| 1 | Java Basics | MCQ | 5 mins |
-| 2 | SQL Basics | Coding | 15 mins |
-| 3 | Problem Solving Intermediate | Coding | 20 mins |
-| 4 | OOP Advanced | Coding | 50 mins |
+##### Tips for Coding Questions:
+- Coding questions are scored by the number of test cases your solution passes. 
+- Run your code before submitting.
+- Submit your solution even if it is incomplete. Partial solutions still earn points.
 
-**C++ Developer** (6 sections)
-
-| Section | Topic | Type | Recommended Time |
-|---|---|---|---|
-| 1 | C++ Knowledge Easy | MCQ | 5 mins |
-| 2 | C++ Knowledge Medium | MCQ | 5 mins |
-| 3 | C++ Knowledge Advanced | MCQ | 5 mins |
-| 4 | Understanding C++ Program | MCQ | 5 mins |
-| 5 | C++ Intermediate | Coding | 30 mins |
-| 6 | Problem Solving | Coding | 40 mins |
-
-To maximize your score, we recommend starting with the section that matches your strongest area.
+##### Rules: 
+- **Work Independently**: Complete the test on your own, without help from anyone else.
+- **AI tools are prohibited**: Using ChatGPT, Copilot, or any other AI assistant is strictly prohibited.
+- **No external IDEs**: Write all your code in the HackerRank editor. Pasting code into the editor is monitored and is considered a breach of test integrity.
+- **Stay in the test window**: Switching tabs and leaving the test window are monitored. Leaving it too often may be flagged for review and affect your submission.
+- **Confidentiality**: The test content is confidential. Do not share, post, or discuss the questions or your answers.
 
 #### Live Technical Interview
 
