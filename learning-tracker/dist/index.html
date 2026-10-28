@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Track Murex interview topics, assessments, feedback, and learning sources locally.">
+  <title>Murex preparation</title>
+  <link rel="stylesheet" href="styles.css">
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <aside class="sidebar" id="sidebar" aria-label="Main navigation">
+    <div class="sidebar-heading"><a href="#" class="brand" id="brand">Murex prep</a><button class="icon-button mobile-only" id="menu-close" aria-label="Close navigation"><span data-icon="x"></span></button></div>
+    <nav id="main-nav" aria-label="Views"></nav>
+    <h2 class="nav-heading">Categories</h2>
+    <nav id="category-nav" aria-label="Categories"></nav>
+    <button class="sidebar-link" id="new-category"><span data-icon="plus"></span>New category</button>
+    <div class="sidebar-bottom"><button class="sidebar-link" id="backup-open"><span data-icon="download"></span>Backup & restore</button></div>
+  </aside>
+  <div id="sidebar-backdrop" class="sidebar-backdrop" hidden></div>
+  <div class="app-main">
+    <main id="main" tabindex="-1">
+      <header class="page-heading"><div class="page-title-row"><button class="icon-button mobile-only" id="menu-toggle" aria-label="Open navigation" aria-expanded="false" aria-controls="sidebar"><span data-icon="menu"></span></button><h1 id="page-title" tabindex="-1">Topics</h1></div><div class="heading-actions"><label class="track-switch"><span class="sr-only">Developer track</span><select id="track"><option value="java">Java developer</option><option value="cpp">C++ developer</option></select></label><span class="saved-indicator" id="saved-indicator" role="status">Saved locally</span></div></header>
+      <div class="feedback" id="feedback" role="status" hidden></div>
+      <div class="storage-warning" id="storage-warning" role="alert" hidden>Browser storage is unavailable or full. Export a backup before closing this page. <button id="warning-export">Export backup</button></div>
+      <section class="goals-panel" id="goals-panel" aria-label="Learning progress"></section>
+      <section id="learning-layout">
+        <section class="board-panel" id="board-panel" aria-label="Topics">
+          <form class="quick-add" id="quick-add">
+            <label class="quick-title-field">New topic<input id="quick-title" maxlength="250" required autocomplete="off" placeholder="Topic title"></label>
+            <label>Category<select id="quick-category"></select></label>
+            <label>Priority<select id="quick-priority"><option value="medium">Medium</option><option value="high">High</option><option value="low">Low</option></select></label>
+            <button class="primary-button" type="submit">Add topic</button>
+            <details class="quick-note"><summary>Notes (optional)</summary><label class="sr-only" for="quick-notes">Notes for the new topic</label><textarea id="quick-notes" rows="3" maxlength="100000" placeholder="Notes, feedback or reference links"></textarea></details>
+          </form>
+          <div class="board-toolbar"><div class="view-tabs" role="group" aria-label="Group topics"><span>Group by</span><button data-group="priority" aria-pressed="true" class="active">Priority</button><button data-group="status" aria-pressed="false">Status</button><button data-group="category" aria-pressed="false">Category</button><button data-group="all" aria-pressed="false">List</button></div><span id="board-total"></span></div>
+          <div class="search-filter"><label class="search-field">Search<input id="search" type="search" placeholder="Topics, notes or sources"></label><label>Priority<select id="priority-filter"><option value="all">All priorities</option><option value="high">High</option><option value="medium">Medium</option><option value="low">Low</option></select></label><label>Sort<select id="sort"><option value="default">Guide order</option><option value="title">A to Z</option><option value="priority">Priority</option><option value="due">Due date</option></select></label><label class="hide-completed"><input id="hide-done" type="checkbox">Hide completed</label></div>
+          <div class="board-columns" id="board-columns"></div>
+        </section>
+      </section>
+      <section id="journey-view" hidden></section>
+      <section id="resources-view" hidden></section>
+    </main>
+  </div>
+  <dialog class="detail-dialog" id="detail-dialog" aria-label="Checkpoint details"></dialog>
+  <dialog class="form-dialog" id="category-dialog" aria-labelledby="category-title"><form id="category-form"><div class="modal-heading"><h2 id="category-title">New category</h2><button class="icon-button" data-close type="button" aria-label="Close"><span data-icon="x"></span></button></div><div class="feedback" id="category-feedback" data-dialog-feedback role="status" hidden></div><label class="field-label" for="category-name">Name</label><input id="category-name" required maxlength="60" placeholder="e.g. System design"><label class="field-label" for="category-color">Color</label><input id="category-color" type="color" value="#6346a2"><div class="modal-actions"><button class="secondary-button" data-close type="button">Cancel</button><button class="primary-button" type="submit">Create category</button></div></form></dialog>
+  <dialog class="form-dialog" id="backup-dialog" aria-labelledby="backup-title"><div class="modal-heading"><h2 id="backup-title">Backup & restore</h2><button class="icon-button" data-close aria-label="Close"><span data-icon="x"></span></button></div><div class="feedback" id="backup-feedback" data-dialog-feedback role="status" hidden></div><p>Progress is saved in this browser. Export a backup to keep a copy or move to another browser.</p><div class="backup-options"><button class="secondary-button" id="export-backup">Download backup</button><button class="secondary-button" id="import-backup">Restore backup</button></div><input id="import-file" type="file" accept="application/json,.json" hidden><div id="restore-confirm" class="restore-confirm" hidden><h3>Replace current progress?</h3><p id="restore-summary"></p><p>A copy of your current progress will download first.</p><div class="modal-actions"><button class="secondary-button" id="cancel-restore">Cancel</button><button class="primary-button" id="confirm-restore">Restore</button></div></div></dialog>
+</body>
+</html>
